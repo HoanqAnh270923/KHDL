@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,Income,Occupation,ShoppingFrequency,AverageTransactionValue,FavoriteProductType,VisitTime,PaymentMethod,CustomerFeedback,LoyaltyProgramParticipation,PurchaseHistory,AnnualExpenditure,MallStayDuration,ResidentialArea,Cluster
+CUST1000,48,Female,176288,Manager,6,53.92,Groceries,Afternoon,Mobile Wallet,Neutral,Yes,Groceries,86097,124,Suburban,6
+CUST1001,30,Female,98110,Student,12,241.56,Beauty,Morning,Cash,Very Dissatisfied,Yes,Groceries,8824,74,Urban,5
+CUST1002,54,Female,197744,Manager,7,242.07,Technology,Evening,Credit Card,Neutral,No,Fashion,41993,86,Rural,3
+CUST1003,27,Male,53382,Freelancer,13,40.77,Fashion,Evening,Debit Card,Very Dissatisfied,Yes,Mixed,68830,111,Rural,4
+CUST1004,23,Male,165736,Freelancer,2,351.5,Fashion,Morning,Cash,Neutral,Yes,Fashion,38034,164,Urban,3
+CUST1005,35,Female,185724,Engineer,12,150.07,Fashion,Afternoon,Mobile Wallet,Very Satisfied,Yes,Groceries,9213,100,Suburban,3
+CUST1006,46,Female,132034,Doctor,14,365.25,Technology,Morning,Credit Card,Dissatisfied,Yes,Mixed,20701,144,Urban,7
+CUST1007,26,Female,124590,Freelancer,9,166.1,Beauty,Evening,Debit Card,Very Satisfied,No,Groceries,89682,94,Urban,2
+CUST1008,51,Male,147832,Engineer,10,170.66,Electronics,Morning,Mobile Wallet,Satisfied,Yes,Groceries,40605,155,Rural,7
+CUST1009,66,Male,32565,Student,11,470.12,Groceries,Morning,Mobile Wallet,Very Dissatisfied,Yes,Electronics,58027,62,Urban,1
+CUST1010,49,Female,46046,Freelancer,3,263.26,Fashion,Morning,Credit Card,Dissatisfied,Yes,Fashion,41394,80,Urban,1
+CUST1011,57,Female,33231,Manager,13,197.23,Groceries,Evening,Mobile Wallet,Very Satisfied,No,Mixed,3048,91,Suburban,1
+CUST1012,32,Female,26026,Doctor,12,251.93,Fashion,Morning,Debit Card,Very Dissatisfied,No,Groceries,86128,134,Suburban,4
+CUST1013,33,Female,151556,Engineer,13,136.09,Beauty,Afternoon,Cash,Satisfied,No,Mixed,23108,51,Rural,7
+CUST1014,48,Female,123956,Manager,3,454.37,Fashion,Morning,Credit Card,Neutral,Yes,Groceries,27902,175,Urban,7
+CUST1015,31,Female,44594,Engineer,10,376.84,Beauty,Afternoon,Cash,Very Satisfied,No,Mixed,75880,55,Suburban,4
+CUST1016,44,Female,114151,Student,7,56.89,Groceries,Evening,Debit Card,Very Dissatisfied,Yes,Mixed,46677,164,Suburban,0
+CUST1017,36,Male,121866,Doctor,15,245.68,Technology,Morning,Credit Card,Satisfied,Yes,Electronics,30329,155,Suburban,0
+CUST1018,64,Male,34739,Teacher,11,365.56,Fashion,Evening,Mobile Wallet,Very Satisfied,No,Groceries,4179,64,Urban,1
+CUST1019,18,Male,187352,Student,12,204.89,Technology,Morning,Mobile Wallet,Very Dissatisfied,No,Fashion,36989,126,Rural,3
+CUST1020,56,Male,22477,Manager,13,451.86,Groceries,Afternoon,Debit Card,Dissatisfied,No,Fashion,86730,108,Urban,4
+CUST1021,25,Male,155578,Student,9,400.79,Technology,Morning,Cash,Satisfied,No,Groceries,4250,173,Urban,7
+CUST1022,25,Male,148860,Manager,1,371.97,Beauty,Evening,Credit Card,Neutral,No,Fashion,62688,159,Urban,6
+CUST1023,70,Male,126817,Student,1,164.69,Technology,Morning,Debit Card,Satisfied,Yes,Mixed,77695,72,Suburban,2
+CUST1024,35,Male,33634,Doctor,6,217.57,Technology,Morning,Debit Card,Very Dissatisfied,Yes,Groceries,38182,100,Rural,1
+CUST1025,68,Female,191056,Teacher,4,152.89,Groceries,Evening,Cash,Satisfied,Yes,Groceries,38686,98,Suburban,3
+CUST1026,55,Male,22990,Engineer,8,370.82,Groceries,Evening,Debit Card,Very Dissatisfied,Yes,Fashion,72502,123,Rural,4
+CUST1027,28,Female,120765,Teacher,13,167.52,Beauty,Morning,Credit Card,Dissatisfied,Yes,Fashion,43410,67,Urban,0
+CUST1028,57,Female,199315,Freelancer,15,66.25,Beauty,Afternoon,Cash,Very Satisfied,Yes,Groceries,41698,146,Urban,3
+CUST1029,63,Female,123877,Manager,14,107.9,Beauty,Afternoon,Debit Card,Very Satisfied,Yes,Groceries,68639,61,Rural,2
+CUST1030,51,Female,47436,Manager,1,118.43,Electronics,Morning,Debit Card,Satisfied,No,Groceries,9555,102,Suburban,1
+CUST1031,24,Female,88614,Engineer,10,54.7,Electronics,Evening,Debit Card,Very Dissatisfied,Yes,Electronics,67010,104,Suburban,2
+CUST1032,49,Male,196058,Engineer,6,400.65,Electronics,Afternoon,Credit Card,Satisfied,Yes,Mixed,36820,64,Suburban,3
+CUST1033,31,Male,85360,Manager,13,439.75,Groceries,Morning,Credit Card,Satisfied,No,Groceries,37804,37,Rural,5
+CUST1034,61,Female,164603,Teacher,4,25.9,Electronics,Evening,Credit Card,Satisfied,Yes,Mixed,50486,126,Suburban,6
+CUST1035,42,Male,162977,Teacher,3,50.14,Electronics,Evening,Cash,Satisfied,Yes,Mixed,24359,75,Urban,3
+CUST1036,26,Male,167328,Manager,3,315.23,Fashion,Evening,Credit Card,Very Dissatisfied,No,Electronics,66900,50,Rural,6
+CUST1037,61,Female,150214,Teacher,10,352.78,Electronics,Morning,Debit Card,Neutral,No,Electronics,84163,74,Urban,6
+CUST1038,33,Male,72083,Doctor,3,151.45,Fashion,Evening,Cash,Very Satisfied,No,Fashion,64453,109,Urban,4
+CUST1039,31,Male,64192,Doctor,4,108.52,Technology,Evening,Cash,Dissatisfied,Yes,Mixed,9134,99,Urban,5
+CUST1040,28,Male,98174,Teacher,2,112.9,Technology,Morning,Credit Card,Satisfied,No,Electronics,30758,89,Suburban,5
+CUST1041,19,Female,109626,Student,13,398.3,Electronics,Afternoon,Debit Card,Very Dissatisfied,Yes,Mixed,54720,99,Rural,0
+CUST1042,69,Male,106740,Freelancer,11,401.86,Technology,Morning,Cash,Dissatisfied,Yes,Mixed,2958,56,Rural,5
+CUST1043,48,Male,135095,Engineer,9,25.44,Technology,Morning,Credit Card,Very Dissatisfied,Yes,Electronics,42608,46,Suburban,0
+CUST1044,45,Male,177380,Engineer,6,224.03,Beauty,Afternoon,Credit Card,Satisfied,No,Fashion,82193,32,Urban,6
+CUST1045,45,Female,190027,Teacher,12,405.8,Technology,Morning,Credit Card,Very Satisfied,Yes,Mixed,87829,82,Rural,6
+CUST1046,56,Female,25018,Freelancer,8,223.33,Electronics,Evening,Debit Card,Very Satisfied,Yes,Groceries,42017,168,Urban,1
+CUST1047,51,Female,63630,Doctor,9,226.34,Beauty,Evening,Debit Card,Very Dissatisfied,Yes,Electronics,97563,121,Suburban,4
+CUST1048,53,Male,154776,Doctor,9,248.28,Fashion,Afternoon,Cash,Very Satisfied,Yes,Mixed,68025,51,Urban,6
+CUST1049,60,Female,187326,Student,14,442.1,Fashion,Morning,Credit Card,Very Dissatisfied,No,Electronics,52733,92,Urban,3
+CUST1050,19,Male,159040,Student,9,287.16,Fashion,Evening,Credit Card,Neutral,Yes,Groceries,26888,70,Suburban,7
+CUST1051,67,Male,195757,Engineer,9,488.46,Technology,Evening,Credit Card,Neutral,No,Electronics,76531,106,Rural,6
+CUST1052,50,Female,36999,Doctor,9,81.18,Electronics,Evening,Credit Card,Dissatisfied,No,Groceries,2048,97,Suburban,1
+CUST1053,23,Female,153239,Doctor,1,107.86,Electronics,Evening,Credit Card,Dissatisfied,No,Groceries,97130,133,Rural,6
+CUST1054,66,Male,49868,Doctor,6,377.8,Beauty,Afternoon,Mobile Wallet,Neutral,No,Mixed,33376,80,Rural,1
+CUST1055,51,Male,116137,Teacher,5,482.88,Electronics,Afternoon,Cash,Neutral,Yes,Groceries,27336,47,Urban,0
+CUST1056,35,Male,24963,Teacher,8,129.5,Electronics,Evening,Mobile Wallet,Very Dissatisfied,Yes,Mixed,81971,43,Urban,4
+CUST1057,29,Female,73310,Manager,10,33.02,Beauty,Evening,Debit Card,Neutral,No,Mixed,86018,113,Urban,4
+CUST1058,43,Female,132230,Freelancer,6,273.87,Beauty,Afternoon,Debit Card,Dissatisfied,Yes,Fashion,53240,96,Urban,0
+CUST1059,70,Male,138809,Freelancer,10,382.89,Technology,Afternoon,Cash,Very Dissatisfied,No,Groceries,70357,91,Suburban,2
+CUST1060,47,Female,44903,Engineer,12,450.44,Groceries,Morning,Credit Card,Satisfied,No,Groceries,22141,104,Rural,1
+CUST1061,61,Female,167330,Student,5,379.2,Electronics,Afternoon,Credit Card,Dissatisfied,No,Groceries,61496,135,Urban,6
+CUST1062,28,Male,117307,Manager,10,64.64,Technology,Afternoon,Debit Card,Dissatisfied,No,Electronics,88315,44,Rural,2
+CUST1063,54,Female,26875,Student,4,485.96,Technology,Afternoon,Mobile Wallet,Satisfied,Yes,Electronics,37727,93,Suburban,1
+CUST1064,22,Male,31562,Engineer,1,379.75,Groceries,Morning,Debit Card,Very Dissatisfied,Yes,Fashion,57686,74,Rural,1
+CUST1065,21,Female,77758,Student,12,104.77,Electronics,Evening,Cash,Very Satisfied,No,Electronics,3178,135,Urban,5
+CUST1066,51,Male,119103,Freelancer,10,112.77,Electronics,Morning,Cash,Dissatisfied,Yes,Fashion,35790,155,Suburban,0
+CUST1067,36,Male,127761,Student,9,171.51,Technology,Afternoon,Credit Card,Very Satisfied,Yes,Mixed,68542,158,Urban,2
+CUST1068,29,Female,106851,Student,13,228.92,Electronics,Afternoon,Cash,Dissatisfied,No,Mixed,75208,36,Suburban,2
+CUST1069,32,Male,47156,Teacher,3,62.42,Electronics,Evening,Debit Card,Neutral,No,Groceries,91585,141,Rural,4
+CUST1070,64,Female,123880,Student,9,220.65,Fashion,Morning,Mobile Wallet,Very Dissatisfied,No,Electronics,82451,78,Rural,2
+CUST1071,55,Female,33938,Doctor,2,136.36,Technology,Morning,Mobile Wallet,Satisfied,No,Groceries,76684,70,Urban,4
+CUST1072,25,Male,147414,Teacher,7,189.67,Technology,Evening,Cash,Very Satisfied,No,Fashion,12354,31,Rural,7
+CUST1073,33,Male,39633,Student,1,100.08,Beauty,Morning,Debit Card,Neutral,Yes,Groceries,52134,125,Urban,1
+CUST1074,59,Male,152536,Engineer,3,76.97,Technology,Evening,Debit Card,Dissatisfied,Yes,Fashion,32338,39,Urban,7
+CUST1075,32,Male,131522,Freelancer,10,386.09,Fashion,Afternoon,Credit Card,Very Satisfied,No,Electronics,3911,126,Suburban,7
+CUST1076,49,Male,132169,Engineer,4,130.24,Beauty,Morning,Credit Card,Satisfied,Yes,Groceries,58337,60,Urban,0
+CUST1077,65,Male,74671,Freelancer,9,40.51,Technology,Morning,Cash,Very Dissatisfied,No,Fashion,83175,160,Suburban,4
+CUST1078,40,Female,72113,Doctor,2,252.71,Electronics,Morning,Mobile Wallet,Dissatisfied,No,Groceries,9210,120,Rural,5
+CUST1079,60,Male,132717,Doctor,3,313.61,Groceries,Evening,Cash,Very Satisfied,No,Mixed,19948,111,Suburban,7
+CUST1080,19,Male,50566,Manager,10,52.13,Groceries,Evening,Mobile Wallet,Very Satisfied,Yes,Groceries,70926,166,Urban,4
+CUST1081,45,Female,149387,Freelancer,6,223.59,Beauty,Morning,Debit Card,Neutral,Yes,Mixed,75916,62,Rural,6
+CUST1082,29,Male,136582,Student,9,208.81,Groceries,Morning,Debit Card,Very Dissatisfied,No,Electronics,98552,67,Rural,2
+CUST1083,25,Female,61013,Freelancer,5,189.11,Electronics,Afternoon,Debit Card,Very Satisfied,Yes,Electronics,19402,53,Urban,5
+CUST1084,63,Male,149810,Doctor,5,159.49,Groceries,Morning,Mobile Wallet,Very Satisfied,No,Groceries,38332,161,Urban,7
+CUST1085,56,Male,70139,Doctor,8,166.03,Groceries,Morning,Credit Card,Very Dissatisfied,No,Groceries,26556,138,Urban,5
+CUST1086,69,Female,59679,Doctor,14,370.88,Beauty,Morning,Credit Card,Neutral,Yes,Fashion,90575,170,Rural,4
+CUST1087,69,Male,158398,Student,10,473.61,Electronics,Afternoon,Credit Card,Neutral,Yes,Mixed,45386,60,Urban,3
+CUST1088,26,Male,79140,Freelancer,9,106.12,Groceries,Evening,Credit Card,Very Dissatisfied,No,Mixed,42134,157,Suburban,5
+CUST1089,28,Male,111489,Teacher,9,498.66,Beauty,Evening,Cash,Satisfied,Yes,Groceries,63043,140,Rural,0
+CUST1090,30,Male,57283,Doctor,10,45.6,Technology,Afternoon,Cash,Very Satisfied,No,Mixed,36716,44,Urban,1
+CUST1091,46,Male,50128,Student,1,285.44,Electronics,Afternoon,Debit Card,Very Satisfied,Yes,Electronics,85923,130,Rural,4
+CUST1092,36,Female,172203,Student,6,385.82,Beauty,Afternoon,Mobile Wallet,Satisfied,Yes,Groceries,48445,153,Urban,3
+CUST1093,31,Male,40910,Engineer,14,72.03,Technology,Morning,Credit Card,Satisfied,No,Mixed,38768,179,Suburban,1
+CUST1094,28,Female,178685,Doctor,4,324.52,Fashion,Evening,Credit Card,Neutral,Yes,Electronics,48308,74,Rural,3
+CUST1095,62,Male,138494,Freelancer,10,146.48,Beauty,Afternoon,Debit Card,Neutral,No,Mixed,70432,31,Suburban,2
+CUST1096,59,Male,117220,Freelancer,6,415.72,Electronics,Evening,Debit Card,Satisfied,Yes,Groceries,99227,82,Urban,2
+CUST1097,49,Female,145309,Freelancer,4,48.32,Technology,Evening,Debit Card,Dissatisfied,Yes,Mixed,92553,79,Rural,6
+CUST1098,65,Female,191352,Teacher,6,121.4,Fashion,Morning,Cash,Very Dissatisfied,No,Groceries,83440,128,Rural,6
+CUST1099,62,Female,121254,Doctor,15,290.41,Groceries,Afternoon,Debit Card,Dissatisfied,No,Fashion,67312,58,Suburban,0
+CUST1100,26,Male,60632,Manager,5,313.21,Groceries,Morning,Credit Card,Dissatisfied,Yes,Fashion,23919,114,Rural,5
+CUST1101,45,Female,88867,Teacher,8,173.94,Technology,Evening,Debit Card,Satisfied,No,Electronics,81092,139,Suburban,2
+CUST1102,44,Female,92008,Teacher,7,215.01,Electronics,Evening,Debit Card,Very Dissatisfied,No,Groceries,26021,66,Rural,5
+CUST1103,45,Male,55996,Doctor,5,365.73,Electronics,Morning,Cash,Very Dissatisfied,Yes,Electronics,11156,98,Suburban,1
+CUST1104,70,Female,198702,Manager,1,464.79,Technology,Morning,Debit Card,Dissatisfied,No,Mixed,45038,71,Rural,3
+CUST1105,57,Female,191944,Student,6,498.28,Technology,Afternoon,Mobile Wallet,Very Satisfied,No,Mixed,12607,60,Urban,3
+CUST1106,29,Male,147924,Teacher,2,190.49,Beauty,Afternoon,Debit Card,Satisfied,Yes,Groceries,85274,142,Rural,6
+CUST1107,52,Female,145962,Doctor,14,282.89,Groceries,Afternoon,Credit Card,Neutral,Yes,Electronics,11021,36,Rural,7
+CUST1108,41,Female,61719,Engineer,12,327.63,Technology,Evening,Mobile Wallet,Very Dissatisfied,No,Mixed,87257,160,Suburban,4
+CUST1109,54,Female,185887,Engineer,10,376.83,Groceries,Evening,Credit Card,Satisfied,No,Fashion,30039,30,Urban,3
+CUST1110,21,Female,50661,Doctor,1,321.2,Electronics,Evening,Debit Card,Dissatisfied,No,Groceries,19772,93,Rural,1
+CUST1111,32,Female,72230,Teacher,9,499.4,Electronics,Evening,Mobile Wallet,Dissatisfied,No,Groceries,18572,146,Urban,5
+CUST1112,68,Female,177673,Manager,7,33.89,Fashion,Afternoon,Debit Card,Very Satisfied,Yes,Fashion,13410,76,Urban,3
+CUST1113,24,Male,107239,Engineer,15,124.37,Fashion,Evening,Debit Card,Satisfied,Yes,Groceries,86965,89,Suburban,2
+CUST1114,52,Male,112075,Student,1,300.47,Fashion,Morning,Debit Card,Dissatisfied,No,Electronics,88783,71,Rural,2
+CUST1115,36,Male,84308,Engineer,2,90.03,Beauty,Evening,Mobile Wallet,Very Satisfied,No,Mixed,67704,117,Suburban,4
+CUST1116,24,Female,157024,Teacher,5,274.76,Groceries,Afternoon,Debit Card,Dissatisfied,No,Electronics,75266,41,Rural,6
+CUST1117,66,Female,31091,Manager,7,200.99,Electronics,Morning,Credit Card,Very Satisfied,Yes,Groceries,21476,167,Rural,1
+CUST1118,26,Male,35247,Freelancer,2,255.2,Technology,Morning,Debit Card,Dissatisfied,No,Electronics,27933,142,Rural,1
+CUST1119,32,Female,184814,Student,9,404.14,Fashion,Afternoon,Credit Card,Very Dissatisfied,Yes,Electronics,28865,128,Urban,3
+CUST1120,61,Female,108623,Teacher,3,36.24,Beauty,Afternoon,Credit Card,Satisfied,No,Fashion,9369,90,Suburban,5
+CUST1121,55,Female,103168,Doctor,7,92.31,Electronics,Evening,Mobile Wallet,Very Satisfied,Yes,Groceries,36555,149,Rural,0
+CUST1122,56,Male,89799,Freelancer,11,412.82,Fashion,Evening,Mobile Wallet,Very Dissatisfied,No,Mixed,16054,78,Suburban,5
+CUST1123,66,Female,115113,Doctor,5,65.23,Groceries,Evening,Credit Card,Very Satisfied,No,Electronics,47025,45,Suburban,0
+CUST1124,22,Male,109693,Manager,10,222.57,Groceries,Afternoon,Cash,Satisfied,No,Electronics,59075,112,Rural,0
+CUST1125,33,Male,29300,Student,3,39.57,Groceries,Morning,Mobile Wallet,Very Satisfied,Yes,Fashion,75042,38,Suburban,4
+CUST1126,51,Female,104703,Student,13,167.95,Beauty,Morning,Cash,Very Dissatisfied,Yes,Electronics,88410,103,Suburban,2
+CUST1127,36,Female,109048,Freelancer,10,296.68,Fashion,Morning,Cash,Neutral,No,Groceries,98443,66,Suburban,2
+CUST1128,64,Male,61523,Freelancer,15,378.24,Beauty,Afternoon,Mobile Wallet,Very Satisfied,No,Fashion,92471,61,Urban,4
+CUST1129,29,Female,191428,Student,2,145.17,Fashion,Morning,Credit Card,Satisfied,Yes,Mixed,52337,165,Rural,3
+CUST1130,35,Female,183989,Student,2,441.29,Technology,Evening,Credit Card,Very Dissatisfied,No,Groceries,99563,168,Urban,6
+CUST1131,48,Female,21051,Engineer,4,96.74,Electronics,Evening,Cash,Very Satisfied,Yes,Mixed,5178,135,Rural,1
+CUST1132,32,Male,150863,Engineer,5,34.46,Fashion,Morning,Mobile Wallet,Dissatisfied,No,Electronics,78920,115,Urban,6
+CUST1133,31,Male,86328,Student,10,224.38,Beauty,Evening,Cash,Very Satisfied,Yes,Fashion,87405,31,Rural,2
+CUST1134,43,Female,170140,Doctor,6,418.36,Technology,Afternoon,Debit Card,Very Satisfied,No,Fashion,69900,150,Suburban,6
+CUST1135,52,Male,179406,Manager,1,320.65,Fashion,Evening,Debit Card,Neutral,Yes,Mixed,19729,104,Urban,3
+CUST1136,52,Female,27891,Freelancer,1,158.21,Electronics,Morning,Credit Card,Very Satisfied,Yes,Mixed,28810,37,Rural,1
+CUST1137,21,Male,117572,Teacher,10,106.25,Technology,Evening,Credit Card,Very Dissatisfied,No,Mixed,62857,31,Rural,0
+CUST1138,54,Male,26665,Student,10,44.51,Electronics,Morning,Mobile Wallet,Very Satisfied,Yes,Groceries,51171,125,Rural,1
+CUST1139,28,Male,175819,Doctor,11,446.02,Beauty,Morning,Mobile Wallet,Very Dissatisfied,No,Electronics,33534,57,Suburban,3
+CUST1140,37,Female,141330,Doctor,8,262.3,Beauty,Morning,Credit Card,Dissatisfied,No,Electronics,23805,32,Suburban,7
+CUST1141,28,Female,98237,Manager,6,480.77,Fashion,Afternoon,Debit Card,Dissatisfied,No,Electronics,40704,148,Urban,0
+CUST1142,19,Male,180273,Doctor,8,171.88,Electronics,Evening,Credit Card,Neutral,No,Fashion,66447,125,Rural,6
+CUST1143,38,Male,197815,Doctor,8,433.02,Fashion,Evening,Debit Card,Very Satisfied,No,Electronics,97486,103,Rural,6
+CUST1144,65,Female,189039,Teacher,13,435.67,Electronics,Morning,Mobile Wallet,Very Satisfied,No,Mixed,36832,140,Rural,3
+CUST1145,69,Female,53807,Engineer,1,91.93,Technology,Evening,Mobile Wallet,Very Dissatisfied,No,Groceries,65829,69,Rural,4
+CUST1146,51,Male,64656,Manager,12,185.03,Groceries,Morning,Mobile Wallet,Neutral,Yes,Fashion,20986,126,Rural,5
+CUST1147,62,Female,157728,Freelancer,6,401.56,Beauty,Morning,Cash,Neutral,No,Fashion,29870,169,Urban,7
+CUST1148,31,Female,77595,Manager,4,268.35,Technology,Morning,Debit Card,Neutral,Yes,Fashion,49264,120,Rural,5
+CUST1149,29,Female,99471,Student,5,394.99,Fashion,Morning,Cash,Very Dissatisfied,Yes,Fashion,93389,71,Rural,2
+CUST1150,44,Male,123153,Freelancer,7,433.98,Electronics,Evening,Debit Card,Neutral,No,Electronics,52513,76,Rural,0
+CUST1151,63,Female,64105,Student,14,225.02,Electronics,Evening,Credit Card,Very Satisfied,Yes,Mixed,73161,31,Rural,4
+CUST1152,37,Male,148350,Teacher,9,306.24,Fashion,Afternoon,Cash,Very Dissatisfied,No,Mixed,16152,50,Suburban,7
+CUST1153,51,Male,153722,Engineer,8,351.96,Fashion,Morning,Mobile Wallet,Very Dissatisfied,No,Electronics,78831,157,Suburban,6
+CUST1154,33,Female,41560,Doctor,4,331.93,Groceries,Morning,Debit Card,Dissatisfied,No,Mixed,35070,58,Suburban,1
+CUST1155,45,Female,196155,Engineer,8,65.99,Beauty,Evening,Mobile Wallet,Neutral,No,Electronics,29498,144,Suburban,3
+CUST1156,24,Female,189277,Engineer,10,274.93,Fashion,Evening,Credit Card,Neutral,No,Groceries,98317,71,Urban,6
+CUST1157,58,Male,93949,Teacher,11,486.56,Electronics,Evening,Debit Card,Very Satisfied,Yes,Electronics,19885,89,Suburban,5
+CUST1158,40,Female,160599,Freelancer,2,89.29,Groceries,Evening,Debit Card,Satisfied,No,Electronics,53956,84,Rural,6
+CUST1159,29,Male,37375,Doctor,6,165.83,Technology,Afternoon,Credit Card,Neutral,Yes,Fashion,73596,40,Suburban,4
+CUST1160,40,Female,163781,Doctor,2,475.26,Beauty,Afternoon,Mobile Wallet,Satisfied,No,Groceries,15577,100,Suburban,7
+CUST1161,18,Female,97639,Manager,14,300.06,Beauty,Morning,Credit Card,Very Satisfied,No,Electronics,90810,36,Suburban,2
+CUST1162,65,Male,27147,Engineer,5,434.31,Electronics,Morning,Cash,Very Dissatisfied,No,Electronics,87733,82,Suburban,4
+CUST1163,64,Female,89542,Manager,13,108.45,Groceries,Morning,Credit Card,Very Dissatisfied,Yes,Mixed,55678,34,Rural,0
+CUST1164,46,Male,51862,Doctor,1,296.31,Electronics,Afternoon,Mobile Wallet,Satisfied,Yes,Electronics,6666,164,Suburban,1
+CUST1165,68,Female,171244,Doctor,9,469.34,Beauty,Evening,Credit Card,Very Dissatisfied,No,Fashion,91810,90,Urban,6
+CUST1166,52,Male,158843,Doctor,3,232.95,Fashion,Morning,Mobile Wallet,Dissatisfied,No,Groceries,50783,129,Rural,6
+CUST1167,61,Female,159181,Teacher,7,333.22,Fashion,Evening,Debit Card,Dissatisfied,No,Electronics,51135,146,Urban,6
+CUST1168,21,Male,152748,Doctor,6,264.58,Fashion,Evening,Credit Card,Neutral,No,Mixed,62072,143,Suburban,6
+CUST1169,47,Male,36371,Freelancer,5,347.13,Beauty,Evening,Credit Card,Satisfied,No,Fashion,72423,40,Rural,4
+CUST1170,38,Male,84879,Manager,11,42.53,Technology,Evening,Debit Card,Dissatisfied,Yes,Fashion,67139,55,Urban,4
+CUST1171,63,Female,194727,Engineer,4,161.25,Beauty,Afternoon,Mobile Wallet,Very Satisfied,No,Electronics,11395,135,Suburban,3
+CUST1172,69,Female,173061,Manager,6,174.04,Technology,Afternoon,Mobile Wallet,Very Satisfied,No,Fashion,41758,51,Suburban,3
+CUST1173,19,Female,80113,Student,12,357.73,Groceries,Morning,Debit Card,Dissatisfied,Yes,Fashion,4514,34,Rural,5
+CUST1174,61,Female,72214,Freelancer,10,481.33,Beauty,Afternoon,Debit Card,Dissatisfied,Yes,Mixed,98997,127,Suburban,4
+CUST1175,35,Male,56214,Freelancer,9,152.0,Groceries,Afternoon,Cash,Very Satisfied,Yes,Mixed,22922,41,Suburban,1
+CUST1176,55,Male,45239,Teacher,7,64.41,Fashion,Evening,Cash,Very Dissatisfied,Yes,Electronics,67998,166,Urban,4
+CUST1177,23,Female,170763,Manager,14,130.6,Fashion,Evening,Mobile Wallet,Dissatisfied,No,Electronics,73906,180,Rural,6
+CUST1178,69,Male,105510,Student,6,202.31,Beauty,Afternoon,Debit Card,Satisfied,Yes,Mixed,50703,97,Rural,0
+CUST1179,30,Male,151139,Engineer,10,496.54,Groceries,Afternoon,Mobile Wallet,Very Dissatisfied,Yes,Electronics,12948,164,Suburban,7
+CUST1180,69,Female,31792,Doctor,6,156.33,Groceries,Morning,Debit Card,Neutral,Yes,Groceries,19695,114,Rural,1
+CUST1181,48,Male,177832,Freelancer,3,481.51,Technology,Evening,Cash,Very Dissatisfied,No,Fashion,9728,140,Urban,3
+CUST1182,37,Female,127287,Doctor,2,291.22,Beauty,Evening,Debit Card,Satisfied,No,Electronics,17905,147,Rural,7
+CUST1183,29,Male,135020,Manager,11,73.29,Groceries,Evening,Cash,Dissatisfied,Yes,Mixed,62157,100,Urban,0
+CUST1184,46,Male,72913,Teacher,6,252.13,Technology,Afternoon,Cash,Very Satisfied,No,Fashion,13945,69,Urban,5
+CUST1185,70,Male,54330,Engineer,12,33.26,Electronics,Afternoon,Credit Card,Satisfied,No,Fashion,69604,65,Urban,4
+CUST1186,57,Female,91796,Freelancer,11,145.12,Electronics,Evening,Credit Card,Very Dissatisfied,Yes,Fashion,81363,123,Urban,2
+CUST1187,22,Female,112498,Student,15,155.09,Groceries,Morning,Mobile Wallet,Dissatisfied,No,Fashion,24732,128,Urban,0
+CUST1188,59,Male,89902,Teacher,9,494.39,Technology,Afternoon,Mobile Wallet,Very Satisfied,No,Mixed,45684,37,Suburban,5
+CUST1189,48,Female,85995,Student,5,127.37,Fashion,Morning,Mobile Wallet,Neutral,Yes,Groceries,45837,43,Rural,5
+CUST1190,51,Male,40906,Teacher,13,278.12,Fashion,Afternoon,Debit Card,Neutral,Yes,Electronics,1745,45,Suburban,1
+CUST1191,69,Female,88798,Student,9,466.3,Beauty,Evening,Mobile Wallet,Very Dissatisfied,Yes,Electronics,22148,107,Urban,5
+CUST1192,48,Female,79768,Student,3,64.78,Fashion,Evening,Debit Card,Satisfied,No,Fashion,79865,87,Suburban,4
+CUST1193,51,Female,97785,Freelancer,4,459.3,Technology,Morning,Cash,Dissatisfied,No,Fashion,99965,61,Suburban,2
+CUST1194,67,Female,129351,Student,3,423.34,Groceries,Afternoon,Mobile Wallet,Dissatisfied,No,Mixed,53982,96,Urban,0
+CUST1195,69,Male,75624,Teacher,3,142.59,Beauty,Afternoon,Debit Card,Very Dissatisfied,No,Electronics,52855,109,Rural,5
+CUST1196,24,Male,39786,Manager,9,371.42,Technology,Evening,Mobile Wallet,Very Dissatisfied,Yes,Electronics,80505,85,Urban,4
+CUST1197,61,Female,52798,Engineer,4,379.49,Electronics,Evening,Credit Card,Neutral,No,Electronics,56392,67,Rural,4
+CUST1198,45,Female,58700,Engineer,14,413.33,Beauty,Morning,Mobile Wallet,Neutral,Yes,Groceries,1072,109,Suburban,5
+CUST1199,23,Female,76191,Teacher,10,425.21,Groceries,Evening,Credit Card,Neutral,No,Groceries,70923,79,Urban,4
+CUST1200,53,Male,66226,Engineer,14,328.97,Electronics,Afternoon,Debit Card,Neutral,No,Fashion,26105,81,Urban,5
+CUST1201,59,Male,119303,Engineer,15,41.0,Groceries,Morning,Cash,Satisfied,Yes,Fashion,58507,132,Suburban,0
+CUST1202,19,Female,93795,Student,2,110.5,Beauty,Morning,Mobile Wallet,Very Dissatisfied,Yes,Groceries,94991,77,Rural,2
+CUST1203,58,Female,153276,Engineer,3,379.56,Fashion,Afternoon,Debit Card,Very Dissatisfied,No,Mixed,65489,137,Urban,6
+CUST1204,27,Female,121978,Freelancer,15,139.69,Groceries,Afternoon,Credit Card,Very Dissatisfied,No,Mixed,64922,156,Suburban,0
+CUST1205,43,Male,52899,Doctor,7,26.37,Technology,Evening,Mobile Wallet,Satisfied,Yes,Mixed,67314,57,Rural,4
+CUST1206,57,Female,197826,Teacher,5,283.67,Fashion,Afternoon,Cash,Satisfied,No,Fashion,7201,41,Rural,3
+CUST1207,60,Female,78005,Freelancer,4,221.25,Fashion,Afternoon,Cash,Dissatisfied,Yes,Electronics,86759,96,Urban,4
+CUST1208,27,Male,42238,Engineer,6,144.31,Electronics,Afternoon,Credit Card,Dissatisfied,Yes,Mixed,49809,44,Rural,1
+CUST1209,41,Male,137750,Freelancer,1,174.76,Fashion,Afternoon,Credit Card,Neutral,Yes,Groceries,66373,32,Urban,0
+CUST1210,64,Female,154046,Manager,10,473.08,Electronics,Afternoon,Cash,Dissatisfied,Yes,Groceries,15661,148,Rural,7
+CUST1211,32,Female,173463,Teacher,10,161.33,Technology,Afternoon,Debit Card,Satisfied,No,Groceries,84627,81,Suburban,6
+CUST1212,62,Male,154681,Doctor,14,176.64,Fashion,Evening,Debit Card,Satisfied,Yes,Mixed,42893,165,Suburban,7
+CUST1213,46,Male,20481,Student,7,142.36,Beauty,Evening,Mobile Wallet,Satisfied,No,Groceries,10470,47,Urban,1
+CUST1214,68,Male,65456,Student,5,396.49,Technology,Evening,Mobile Wallet,Very Satisfied,No,Mixed,40006,92,Urban,5
+CUST1215,37,Male,110611,Doctor,6,496.41,Fashion,Afternoon,Mobile Wallet,Satisfied,Yes,Groceries,9501,54,Rural,5
+CUST1216,36,Female,194521,Manager,14,87.84,Fashion,Morning,Credit Card,Very Satisfied,Yes,Electronics,45103,94,Suburban,3
+CUST1217,31,Male,171807,Student,12,308.23,Fashion,Afternoon,Mobile Wallet,Dissatisfied,No,Electronics,57841,127,Suburban,6
+CUST1218,62,Male,43126,Engineer,12,384.02,Beauty,Morning,Debit Card,Very Satisfied,Yes,Mixed,11894,170,Suburban,1
+CUST1219,31,Female,45946,Student,11,483.59,Groceries,Evening,Mobile Wallet,Dissatisfied,Yes,Fashion,34362,163,Urban,1
+CUST1220,40,Female,104479,Freelancer,11,368.15,Beauty,Morning,Debit Card,Very Dissatisfied,Yes,Electronics,5739,105,Rural,5
+CUST1221,64,Male,164847,Teacher,8,363.96,Beauty,Evening,Debit Card,Very Satisfied,No,Mixed,76408,44,Rural,6
+CUST1222,60,Male,140592,Engineer,2,68.22,Beauty,Afternoon,Credit Card,Very Satisfied,No,Mixed,14974,152,Urban,7
+CUST1223,66,Male,24711,Student,15,171.25,Technology,Evening,Debit Card,Dissatisfied,Yes,Electronics,3614,119,Suburban,1
+CUST1224,45,Female,178841,Teacher,12,95.83,Technology,Evening,Debit Card,Neutral,Yes,Fashion,70190,64,Suburban,6
+CUST1225,50,Male,20359,Doctor,9,232.12,Beauty,Evening,Debit Card,Dissatisfied,Yes,Groceries,49230,38,Urban,1
+CUST1226,48,Female,187335,Freelancer,7,93.33,Beauty,Evening,Mobile Wallet,Dissatisfied,No,Electronics,50166,67,Suburban,3
+CUST1227,22,Male,63280,Engineer,3,350.89,Electronics,Evening,Cash,Satisfied,No,Electronics,34740,140,Rural,5
+CUST1228,32,Male,167615,Manager,14,253.49,Groceries,Morning,Debit Card,Neutral,No,Groceries,64287,102,Urban,6
+CUST1229,30,Male,137326,Doctor,12,489.07,Fashion,Afternoon,Debit Card,Very Satisfied,Yes,Fashion,57242,166,Urban,0
+CUST1230,37,Male,78660,Teacher,8,77.06,Fashion,Afternoon,Cash,Neutral,Yes,Mixed,75983,150,Rural,4
+CUST1231,20,Male,113706,Manager,14,187.49,Electronics,Evening,Mobile Wallet,Dissatisfied,No,Mixed,23546,134,Suburban,0
+CUST1232,42,Male,108146,Freelancer,2,62.01,Electronics,Afternoon,Mobile Wallet,Neutral,Yes,Mixed,76303,99,Suburban,2
+CUST1233,61,Male,134707,Freelancer,6,495.8,Electronics,Evening,Credit Card,Satisfied,Yes,Fashion,12583,66,Rural,7
+CUST1234,46,Female,121773,Teacher,5,62.4,Beauty,Evening,Credit Card,Very Dissatisfied,No,Mixed,31792,43,Suburban,0
+CUST1235,59,Female,191513,Doctor,3,160.36,Beauty,Evening,Mobile Wallet,Neutral,Yes,Groceries,24786,58,Urban,3
+CUST1236,39,Female,171500,Doctor,12,176.44,Fashion,Morning,Mobile Wallet,Very Dissatisfied,No,Groceries,61056,160,Suburban,6
+CUST1237,38,Male,31059,Teacher,13,40.09,Beauty,Evening,Cash,Very Satisfied,Yes,Mixed,76096,148,Rural,4
+CUST1238,22,Female,79468,Doctor,15,245.57,Beauty,Afternoon,Debit Card,Very Satisfied,Yes,Electronics,21531,141,Rural,5
+CUST1239,20,Female,126934,Doctor,3,190.42,Beauty,Morning,Mobile Wallet,Very Satisfied,Yes,Mixed,13314,31,Urban,7
+CUST1240,43,Male,126445,Freelancer,15,94.2,Beauty,Morning,Debit Card,Satisfied,Yes,Fashion,77598,91,Urban,2
+CUST1241,66,Male,39247,Engineer,14,411.99,Electronics,Afternoon,Mobile Wallet,Neutral,Yes,Groceries,49783,165,Rural,1
+CUST1242,49,Male,173213,Freelancer,13,158.03,Technology,Evening,Cash,Satisfied,Yes,Groceries,79358,46,Rural,6
+CUST1243,43,Female,126325,Freelancer,5,308.87,Electronics,Evening,Cash,Very Dissatisfied,Yes,Electronics,31477,54,Suburban,0
+CUST1244,19,Male,143729,Student,6,435.55,Fashion,Afternoon,Debit Card,Dissatisfied,Yes,Fashion,21568,128,Suburban,7
+CUST1245,56,Male,86565,Student,7,109.14,Electronics,Afternoon,Debit Card,Dissatisfied,Yes,Electronics,42086,67,Suburban,5
+CUST1246,39,Female,37564,Freelancer,11,138.45,Electronics,Evening,Cash,Very Satisfied,No,Mixed,68271,177,Urban,4
+CUST1247,61,Female,73985,Engineer,12,125.17,Electronics,Evening,Cash,Neutral,Yes,Groceries,85687,107,Suburban,4
+CUST1248,56,Male,193822,Doctor,12,171.6,Groceries,Evening,Mobile Wallet,Satisfied,Yes,Fashion,74206,58,Suburban,6
+CUST1249,58,Female,104663,Teacher,14,143.99,Groceries,Morning,Cash,Very Dissatisfied,No,Electronics,83540,106,Rural,2
+CUST1250,28,Female,119032,Doctor,5,438.69,Electronics,Afternoon,Cash,Very Satisfied,No,Groceries,17920,70,Urban,7
+CUST1251,52,Female,123082,Freelancer,5,489.9,Electronics,Afternoon,Cash,Very Satisfied,Yes,Groceries,42246,38,Suburban,0
+CUST1252,34,Female,96247,Teacher,8,23.32,Electronics,Morning,Cash,Satisfied,No,Groceries,40316,77,Suburban,5
+CUST1253,48,Female,120437,Doctor,14,422.3,Fashion,Afternoon,Debit Card,Dissatisfied,Yes,Electronics,78575,112,Rural,2
+CUST1254,38,Female,33974,Doctor,11,291.29,Technology,Evening,Cash,Satisfied,Yes,Mixed,26494,117,Rural,1
+CUST1255,41,Male,47939,Manager,3,355.97,Groceries,Evening,Cash,Dissatisfied,Yes,Electronics,45332,172,Rural,1
+CUST1256,60,Male,197026,Manager,8,76.54,Beauty,Morning,Cash,Very Dissatisfied,No,Groceries,34342,134,Suburban,3
+CUST1257,40,Male,134275,Student,2,257.62,Beauty,Afternoon,Credit Card,Very Dissatisfied,No,Electronics,58727,128,Urban,0
+CUST1258,65,Female,101444,Doctor,6,363.02,Groceries,Morning,Mobile Wallet,Satisfied,No,Mixed,30945,147,Suburban,5
+CUST1259,22,Male,38563,Engineer,11,330.49,Technology,Evening,Cash,Satisfied,No,Electronics,95136,94,Rural,4
+CUST1260,38,Female,136019,Doctor,11,367.14,Technology,Afternoon,Cash,Very Satisfied,Yes,Groceries,82603,43,Suburban,2
+CUST1261,63,Female,151772,Engineer,1,43.99,Electronics,Afternoon,Mobile Wallet,Neutral,Yes,Mixed,90513,49,Rural,6
+CUST1262,21,Male,87532,Doctor,8,149.17,Technology,Afternoon,Debit Card,Dissatisfied,Yes,Electronics,99364,75,Suburban,2
+CUST1263,25,Male,182263,Freelancer,6,293.17,Electronics,Afternoon,Mobile Wallet,Neutral,No,Electronics,75535,155,Rural,6
+CUST1264,22,Male,120318,Doctor,13,67.0,Technology,Afternoon,Cash,Neutral,No,Groceries,7434,69,Rural,7
+CUST1265,41,Male,75752,Engineer,1,106.88,Electronics,Evening,Mobile Wallet,Neutral,No,Fashion,32752,103,Suburban,5
+CUST1266,40,Male,171398,Freelancer,12,41.71,Fashion,Afternoon,Debit Card,Neutral,No,Fashion,19184,60,Urban,3
+CUST1267,23,Female,191679,Student,9,462.61,Beauty,Evening,Debit Card,Neutral,No,Mixed,30215,43,Suburban,3
+CUST1268,44,Female,164800,Engineer,10,405.58,Technology,Evening,Mobile Wallet,Very Satisfied,Yes,Electronics,21583,41,Suburban,3
+CUST1269,24,Female,155837,Engineer,4,42.77,Fashion,Afternoon,Debit Card,Satisfied,Yes,Fashion,51647,36,Urban,6
+CUST1270,53,Female,53085,Manager,14,29.26,Groceries,Evening,Cash,Dissatisfied,Yes,Fashion,33638,74,Urban,1
+CUST1271,33,Male,58202,Teacher,6,58.11,Technology,Morning,Debit Card,Dissatisfied,No,Groceries,14829,147,Rural,1
+CUST1272,35,Female,153843,Manager,3,374.18,Beauty,Afternoon,Cash,Very Dissatisfied,No,Mixed,24537,179,Urban,7
+CUST1273,30,Male,35419,Doctor,5,271.05,Electronics,Evening,Cash,Very Dissatisfied,Yes,Electronics,12638,100,Urban,1
+CUST1274,33,Male,106581,Freelancer,15,430.02,Fashion,Afternoon,Mobile Wallet,Very Dissatisfied,Yes,Groceries,80056,155,Suburban,2
+CUST1275,63,Male,139422,Teacher,4,419.18,Fashion,Evening,Credit Card,Neutral,Yes,Electronics,78404,40,Rural,2
+CUST1276,50,Female,79619,Student,15,169.11,Groceries,Evening,Mobile Wallet,Satisfied,No,Electronics,59118,81,Urban,4
+CUST1277,69,Male,80088,Teacher,6,455.81,Beauty,Morning,Credit Card,Dissatisfied,No,Mixed,67411,114,Urban,4
+CUST1278,67,Female,103165,Manager,6,398.73,Groceries,Afternoon,Credit Card,Dissatisfied,Yes,Mixed,17744,164,Rural,5
+CUST1279,19,Male,36970,Teacher,9,414.75,Fashion,Evening,Mobile Wallet,Satisfied,Yes,Mixed,59564,154,Rural,4
+CUST1280,39,Male,70174,Doctor,11,147.93,Electronics,Afternoon,Cash,Dissatisfied,Yes,Mixed,92476,42,Rural,4
+CUST1281,69,Male,107340,Student,1,79.09,Technology,Afternoon,Mobile Wallet,Very Satisfied,Yes,Electronics,69254,101,Suburban,2
+CUST1282,58,Female,62014,Student,5,429.28,Fashion,Morning,Debit Card,Neutral,Yes,Fashion,92467,45,Suburban,4
+CUST1283,63,Male,143596,Engineer,11,95.76,Beauty,Morning,Credit Card,Very Satisfied,No,Electronics,94884,148,Urban,2
+CUST1284,24,Female,144803,Engineer,15,370.11,Electronics,Evening,Mobile Wallet,Very Satisfied,No,Electronics,25901,163,Rural,7
+CUST1285,25,Female,58992,Engineer,6,496.28,Groceries,Evening,Debit Card,Dissatisfied,Yes,Mixed,13185,177,Urban,5
+CUST1286,55,Male,127282,Teacher,9,476.06,Groceries,Morning,Cash,Satisfied,No,Groceries,51285,167,Rural,0
+CUST1287,64,Female,52175,Manager,1,215.13,Fashion,Morning,Cash,Satisfied,No,Groceries,31583,64,Suburban,1
+CUST1288,59,Male,153162,Teacher,13,47.7,Fashion,Afternoon,Debit Card,Dissatisfied,No,Fashion,56500,99,Suburban,6
+CUST1289,34,Female,137168,Freelancer,1,430.07,Fashion,Afternoon,Credit Card,Neutral,Yes,Groceries,90893,153,Rural,2
+CUST1290,54,Male,75131,Teacher,8,83.73,Fashion,Evening,Credit Card,Very Dissatisfied,Yes,Mixed,79880,39,Suburban,4
+CUST1291,50,Female,32817,Teacher,10,270.13,Fashion,Evening,Mobile Wallet,Neutral,Yes,Electronics,14786,138,Urban,1
+CUST1292,50,Male,38696,Doctor,14,383.66,Technology,Morning,Mobile Wallet,Very Dissatisfied,No,Groceries,97778,90,Urban,4
+CUST1293,62,Female,76903,Engineer,9,471.39,Technology,Afternoon,Debit Card,Very Satisfied,No,Electronics,34130,70,Urban,5
+CUST1294,32,Female,138926,Engineer,8,361.02,Technology,Morning,Credit Card,Satisfied,Yes,Mixed,49695,171,Urban,0
+CUST1295,63,Male,45042,Manager,7,273.71,Groceries,Afternoon,Debit Card,Very Satisfied,Yes,Mixed,82444,92,Rural,4
+CUST1296,30,Male,134186,Teacher,10,262.54,Electronics,Evening,Cash,Satisfied,No,Fashion,1466,60,Suburban,7
+CUST1297,31,Male,36552,Freelancer,7,58.19,Fashion,Evening,Mobile Wallet,Neutral,No,Groceries,51244,51,Urban,1
+CUST1298,52,Male,92663,Teacher,7,198.05,Fashion,Morning,Cash,Satisfied,No,Mixed,96345,127,Urban,2
+CUST1299,26,Male,166594,Engineer,9,256.4,Technology,Afternoon,Mobile Wallet,Very Satisfied,Yes,Mixed,77621,91,Rural,6
+CUST1300,31,Female,174506,Manager,11,446.68,Beauty,Evening,Cash,Dissatisfied,No,Mixed,5943,89,Urban,3
+CUST1301,54,Male,92061,Engineer,1,349.28,Beauty,Afternoon,Credit Card,Dissatisfied,Yes,Electronics,83460,168,Rural,2
+CUST1302,52,Male,185896,Freelancer,14,469.66,Electronics,Afternoon,Debit Card,Very Satisfied,No,Groceries,54558,33,Suburban,3
+CUST1303,38,Female,29750,Student,14,270.86,Technology,Evening,Mobile Wallet,Very Dissatisfied,No,Mixed,38552,178,Suburban,1
+CUST1304,63,Female,138842,Manager,2,250.93,Electronics,Morning,Debit Card,Neutral,No,Mixed,36693,175,Suburban,7
+CUST1305,51,Male,143492,Engineer,11,77.84,Groceries,Morning,Credit Card,Very Dissatisfied,Yes,Mixed,80398,174,Suburban,6
+CUST1306,32,Female,74110,Student,14,124.92,Technology,Evening,Mobile Wallet,Dissatisfied,No,Electronics,90062,145,Rural,4
+CUST1307,25,Male,98518,Freelancer,2,53.07,Electronics,Evening,Cash,Dissatisfied,No,Groceries,23077,86,Urban,5
+CUST1308,54,Male,185217,Engineer,13,30.62,Groceries,Afternoon,Cash,Very Dissatisfied,Yes,Mixed,40903,121,Rural,3
+CUST1309,48,Male,21881,Teacher,15,162.03,Technology,Afternoon,Mobile Wallet,Very Satisfied,Yes,Electronics,44045,169,Suburban,1
+CUST1310,50,Female,142038,Freelancer,1,181.55,Electronics,Evening,Mobile Wallet,Satisfied,Yes,Fashion,48027,138,Urban,0
+CUST1311,28,Female,93973,Engineer,2,337.75,Electronics,Afternoon,Mobile Wallet,Very Satisfied,No,Fashion,80744,86,Urban,2
+CUST1312,58,Female,77189,Freelancer,5,274.79,Technology,Evening,Debit Card,Dissatisfied,Yes,Fashion,82431,171,Suburban,4
+CUST1313,43,Female,160215,Engineer,4,32.76,Electronics,Afternoon,Cash,Very Dissatisfied,No,Electronics,19005,30,Suburban,7
+CUST1314,41,Female,32144,Student,14,221.39,Electronics,Evening,Mobile Wallet,Very Satisfied,No,Electronics,20766,150,Urban,1
+CUST1315,33,Male,167374,Teacher,4,46.11,Fashion,Evening,Cash,Very Dissatisfied,No,Groceries,58106,88,Suburban,6
+CUST1316,59,Female,119432,Manager,9,264.97,Fashion,Morning,Credit Card,Very Dissatisfied,No,Groceries,56185,69,Suburban,0
+CUST1317,39,Female,106311,Student,6,208.28,Groceries,Afternoon,Mobile Wallet,Very Satisfied,No,Fashion,17864,176,Suburban,5
+CUST1318,23,Female,43672,Engineer,5,411.5,Fashion,Evening,Credit Card,Dissatisfied,No,Fashion,24238,115,Suburban,1
+CUST1319,62,Female,81168,Teacher,8,484.77,Technology,Morning,Debit Card,Dissatisfied,Yes,Fashion,93623,93,Suburban,4
+CUST1320,33,Female,56295,Teacher,6,64.84,Fashion,Morning,Credit Card,Very Satisfied,Yes,Mixed,54141,114,Suburban,4
+CUST1321,64,Male,120384,Student,15,52.21,Fashion,Evening,Credit Card,Very Dissatisfied,No,Fashion,80502,135,Urban,2
+CUST1322,43,Male,169237,Teacher,3,117.35,Groceries,Evening,Mobile Wallet,Very Satisfied,No,Groceries,81502,174,Suburban,6
+CUST1323,26,Male,93212,Doctor,7,144.71,Technology,Morning,Credit Card,Satisfied,No,Fashion,81519,66,Suburban,2
+CUST1324,36,Male,91122,Engineer,12,232.6,Groceries,Afternoon,Mobile Wallet,Satisfied,Yes,Fashion,41596,102,Rural,5
+CUST1325,54,Female,32489,Freelancer,3,263.22,Technology,Morning,Mobile Wallet,Satisfied,Yes,Fashion,97733,149,Suburban,4
+CUST1326,50,Male,180276,Student,3,122.16,Electronics,Morning,Credit Card,Very Dissatisfied,No,Fashion,85133,172,Suburban,6
+CUST1327,40,Male,196540,Student,2,203.38,Fashion,Afternoon,Mobile Wallet,Dissatisfied,Yes,Fashion,90167,34,Urban,6
+CUST1328,55,Female,93505,Manager,11,459.69,Groceries,Morning,Mobile Wallet,Satisfied,No,Electronics,84816,174,Suburban,2
+CUST1329,20,Female,52933,Doctor,11,401.07,Technology,Morning,Credit Card,Very Dissatisfied,Yes,Fashion,91017,154,Urban,4
+CUST1330,27,Male,178477,Teacher,13,336.18,Electronics,Evening,Credit Card,Neutral,No,Fashion,75996,101,Urban,6
+CUST1331,36,Female,80657,Engineer,10,256.2,Technology,Morning,Cash,Very Satisfied,Yes,Electronics,82623,132,Urban,4
+CUST1332,58,Male,187978,Manager,12,222.7,Technology,Morning,Debit Card,Neutral,No,Mixed,34128,158,Rural,3
+CUST1333,46,Female,136766,Engineer,4,96.76,Fashion,Morning,Debit Card,Very Dissatisfied,No,Groceries,62919,147,Urban,0
+CUST1334,18,Female,65506,Manager,1,57.3,Fashion,Afternoon,Credit Card,Very Dissatisfied,Yes,Mixed,20225,134,Rural,5
+CUST1335,53,Male,84265,Student,5,396.71,Groceries,Evening,Credit Card,Satisfied,Yes,Fashion,22073,149,Rural,5
+CUST1336,51,Male,179758,Teacher,9,118.97,Technology,Morning,Cash,Very Satisfied,Yes,Fashion,35290,47,Suburban,3
+CUST1337,64,Male,109779,Student,3,133.67,Technology,Morning,Cash,Neutral,No,Mixed,89377,34,Suburban,2
+CUST1338,44,Female,173806,Freelancer,9,214.14,Fashion,Morning,Credit Card,Neutral,No,Mixed,95830,120,Suburban,6
+CUST1339,65,Female,102604,Doctor,14,368.34,Technology,Morning,Debit Card,Neutral,No,Electronics,40385,33,Urban,0
+CUST1340,70,Male,119322,Engineer,4,185.75,Groceries,Morning,Credit Card,Neutral,No,Groceries,28238,100,Urban,0
+CUST1341,59,Female,192346,Doctor,4,271.16,Electronics,Morning,Mobile Wallet,Dissatisfied,No,Fashion,39120,156,Urban,3
+CUST1342,68,Male,146380,Student,5,44.53,Groceries,Evening,Cash,Very Satisfied,Yes,Groceries,98912,40,Suburban,6
+CUST1343,31,Female,103512,Engineer,7,478.67,Groceries,Morning,Debit Card,Very Satisfied,No,Groceries,46768,163,Urban,0
+CUST1344,61,Male,67846,Student,13,180.94,Technology,Evening,Mobile Wallet,Neutral,Yes,Electronics,54780,91,Suburban,4
+CUST1345,21,Male,154550,Student,9,100.64,Electronics,Evening,Credit Card,Satisfied,Yes,Groceries,21615,153,Rural,7
+CUST1346,19,Female,162760,Teacher,9,415.16,Technology,Evening,Cash,Very Dissatisfied,No,Electronics,75194,53,Urban,6
+CUST1347,57,Male,56020,Engineer,4,428.97,Beauty,Morning,Cash,Neutral,No,Groceries,7253,178,Suburban,1
+CUST1348,38,Female,177159,Engineer,9,46.24,Fashion,Morning,Credit Card,Very Dissatisfied,No,Electronics,7184,146,Urban,3
+CUST1349,53,Male,79840,Manager,2,454.05,Groceries,Afternoon,Cash,Dissatisfied,No,Fashion,90091,136,Rural,4
+CUST1350,23,Male,126763,Manager,10,154.44,Fashion,Morning,Debit Card,Neutral,No,Fashion,24589,77,Suburban,7
+CUST1351,42,Female,184542,Engineer,2,277.32,Beauty,Morning,Credit Card,Dissatisfied,No,Electronics,37763,175,Urban,3
+CUST1352,24,Female,124855,Engineer,8,114.61,Technology,Afternoon,Debit Card,Satisfied,No,Electronics,85629,88,Rural,2
+CUST1353,61,Female,110128,Teacher,13,107.36,Groceries,Evening,Debit Card,Very Satisfied,No,Fashion,37794,150,Rural,0
+CUST1354,43,Female,150645,Engineer,1,437.34,Electronics,Afternoon,Debit Card,Very Satisfied,No,Fashion,16905,80,Rural,7
+CUST1355,26,Female,35887,Teacher,5,96.08,Electronics,Afternoon,Mobile Wallet,Neutral,No,Groceries,10234,117,Suburban,1
+CUST1356,50,Female,121347,Freelancer,13,351.16,Electronics,Evening,Cash,Dissatisfied,No,Electronics,44469,34,Urban,0
+CUST1357,70,Male,150924,Student,9,41.47,Beauty,Evening,Credit Card,Neutral,No,Groceries,10786,98,Urban,7
+CUST1358,25,Female,23043,Engineer,15,285.76,Groceries,Evening,Credit Card,Neutral,Yes,Groceries,50331,153,Suburban,1
+CUST1359,38,Male,75228,Manager,3,351.79,Fashion,Evening,Credit Card,Dissatisfied,Yes,Fashion,63613,97,Suburban,4
+CUST1360,48,Female,148878,Teacher,2,214.51,Beauty,Morning,Debit Card,Neutral,Yes,Groceries,52393,137,Rural,0
+CUST1361,18,Male,126500,Engineer,2,64.66,Fashion,Afternoon,Credit Card,Satisfied,No,Groceries,48442,173,Urban,0
+CUST1362,59,Female,70488,Engineer,9,358.05,Electronics,Afternoon,Mobile Wallet,Neutral,Yes,Groceries,15763,164,Urban,5
+CUST1363,34,Male,88701,Teacher,13,333.8,Groceries,Morning,Mobile Wallet,Very Dissatisfied,Yes,Groceries,26181,78,Urban,5
+CUST1364,43,Female,72867,Student,11,140.63,Technology,Morning,Mobile Wallet,Dissatisfied,No,Fashion,65962,41,Urban,4
+CUST1365,50,Male,116656,Doctor,4,373.83,Beauty,Evening,Mobile Wallet,Very Satisfied,Yes,Mixed,25350,122,Suburban,0
+CUST1366,31,Male,92678,Student,12,476.79,Technology,Afternoon,Debit Card,Very Dissatisfied,Yes,Groceries,58174,163,Rural,0
+CUST1367,30,Female,187118,Freelancer,12,111.47,Groceries,Afternoon,Credit Card,Dissatisfied,Yes,Electronics,1292,178,Urban,3
+CUST1368,69,Male,65763,Doctor,13,355.43,Electronics,Evening,Cash,Satisfied,Yes,Groceries,82673,141,Suburban,4
+CUST1369,42,Female,95387,Engineer,4,357.44,Electronics,Morning,Debit Card,Very Satisfied,Yes,Electronics,25648,123,Rural,5
+CUST1370,60,Male,104571,Freelancer,10,122.94,Groceries,Afternoon,Credit Card,Dissatisfied,Yes,Mixed,88701,147,Rural,2
+CUST1371,23,Female,142964,Teacher,3,333.27,Groceries,Morning,Debit Card,Very Dissatisfied,Yes,Fashion,52386,35,Urban,0
+CUST1372,61,Male,99238,Manager,4,85.66,Fashion,Afternoon,Mobile Wallet,Dissatisfied,Yes,Mixed,78262,144,Urban,2
+CUST1373,34,Male,166920,Doctor,4,112.63,Electronics,Morning,Debit Card,Very Dissatisfied,No,Mixed,63249,128,Urban,6
+CUST1374,59,Female,128106,Doctor,12,478.17,Electronics,Evening,Mobile Wallet,Very Dissatisfied,Yes,Mixed,53108,78,Rural,0
+CUST1375,45,Female,150065,Doctor,13,52.61,Groceries,Evening,Debit Card,Dissatisfied,Yes,Electronics,17628,96,Urban,7
+CUST1376,60,Male,40111,Engineer,2,213.2,Electronics,Evening,Mobile Wallet,Very Dissatisfied,Yes,Electronics,20970,131,Urban,1
+CUST1377,26,Female,193294,Engineer,2,84.52,Technology,Evening,Cash,Dissatisfied,No,Groceries,76417,101,Rural,6
+CUST1378,26,Female,199924,Student,12,232.25,Fashion,Evening,Mobile Wallet,Dissatisfied,Yes,Fashion,18686,112,Urban,3
+CUST1379,40,Female,166721,Engineer,1,340.38,Technology,Morning,Credit Card,Dissatisfied,Yes,Fashion,87938,104,Rural,6
+CUST1380,36,Female,77964,Teacher,1,299.97,Electronics,Afternoon,Cash,Dissatisfied,Yes,Fashion,98643,173,Rural,4
+CUST1381,55,Male,111100,Engineer,4,358.77,Beauty,Morning,Mobile Wallet,Very Satisfied,Yes,Electronics,18462,87,Suburban,5
+CUST1382,52,Female,184179,Student,10,131.08,Technology,Afternoon,Debit Card,Very Satisfied,No,Fashion,43358,136,Suburban,3
+CUST1383,63,Male,158074,Teacher,6,104.12,Technology,Afternoon,Credit Card,Neutral,No,Groceries,31980,51,Urban,7
+CUST1384,64,Male,150238,Manager,13,441.26,Technology,Evening,Debit Card,Satisfied,No,Fashion,71694,42,Rural,6
+CUST1385,66,Female,33505,Student,5,442.28,Fashion,Afternoon,Mobile Wallet,Very Dissatisfied,No,Mixed,70377,99,Rural,4
+CUST1386,33,Female,58527,Teacher,10,251.05,Beauty,Evening,Debit Card,Very Satisfied,No,Mixed,47082,74,Suburban,1
+CUST1387,70,Female,161242,Freelancer,4,127.88,Groceries,Morning,Debit Card,Very Satisfied,No,Fashion,67027,177,Rural,6
+CUST1388,31,Male,95749,Doctor,6,295.51,Groceries,Evening,Cash,Very Satisfied,Yes,Groceries,12294,46,Urban,5
+CUST1389,38,Male,171176,Freelancer,2,478.77,Technology,Evening,Credit Card,Dissatisfied,Yes,Mixed,55019,83,Rural,6
+CUST1390,26,Female,144221,Student,11,215.44,Technology,Afternoon,Credit Card,Very Dissatisfied,Yes,Groceries,18920,127,Suburban,7
+CUST1391,20,Male,168441,Teacher,5,311.21,Fashion,Evening,Debit Card,Satisfied,Yes,Electronics,55177,158,Urban,6
+CUST1392,63,Male,37201,Student,11,202.44,Beauty,Afternoon,Mobile Wallet,Very Satisfied,Yes,Electronics,37493,147,Urban,1
+CUST1393,34,Male,173784,Doctor,15,326.7,Beauty,Afternoon,Credit Card,Neutral,Yes,Fashion,14909,70,Rural,3
+CUST1394,45,Male,151681,Manager,1,260.13,Electronics,Afternoon,Cash,Satisfied,Yes,Fashion,19819,111,Urban,7
+CUST1395,59,Male,121637,Manager,10,389.56,Fashion,Evening,Debit Card,Satisfied,No,Electronics,22712,62,Rural,7
+CUST1396,39,Female,165879,Student,7,144.75,Electronics,Morning,Cash,Neutral,Yes,Groceries,47742,133,Urban,3
+CUST1397,62,Female,168434,Manager,13,33.6,Technology,Afternoon,Debit Card,Satisfied,No,Fashion,53267,40,Urban,6
+CUST1398,59,Male,83443,Manager,15,33.78,Groceries,Afternoon,Debit Card,Dissatisfied,No,Electronics,70265,39,Rural,4
+CUST1399,24,Male,64029,Teacher,11,52.48,Technology,Morning,Cash,Neutral,Yes,Mixed,20743,87,Urban,5
+CUST1400,60,Male,63312,Freelancer,5,196.8,Technology,Evening,Mobile Wallet,Very Dissatisfied,No,Electronics,23096,59,Suburban,5
+CUST1401,68,Female,25918,Doctor,12,237.34,Technology,Morning,Cash,Satisfied,No,Fashion,34010,177,Suburban,1
+CUST1402,26,Female,151613,Student,10,322.06,Electronics,Evening,Mobile Wallet,Satisfied,Yes,Electronics,13059,86,Suburban,7
+CUST1403,56,Male,52003,Freelancer,3,213.14,Fashion,Evening,Debit Card,Dissatisfied,No,Groceries,6344,113,Urban,1
+CUST1404,52,Male,31424,Freelancer,1,272.35,Electronics,Afternoon,Credit Card,Dissatisfied,Yes,Fashion,93842,55,Rural,4
+CUST1405,33,Female,102022,Freelancer,7,54.96,Groceries,Afternoon,Cash,Very Dissatisfied,No,Groceries,12170,106,Urban,5
+CUST1406,62,Male,199267,Doctor,15,260.8,Fashion,Evening,Debit Card,Very Dissatisfied,No,Mixed,3594,41,Rural,3
+CUST1407,49,Male,128561,Doctor,10,493.47,Technology,Afternoon,Mobile Wallet,Neutral,No,Groceries,89084,136,Urban,2
+CUST1408,38,Female,130817,Freelancer,7,87.5,Electronics,Evening,Credit Card,Dissatisfied,No,Groceries,55788,154,Rural,0
+CUST1409,62,Female,114886,Student,4,78.61,Technology,Morning,Debit Card,Very Satisfied,No,Fashion,86615,48,Urban,2
+CUST1410,51,Male,72403,Freelancer,6,497.76,Beauty,Afternoon,Cash,Neutral,Yes,Groceries,27857,175,Urban,5
+CUST1411,28,Male,166158,Manager,5,190.46,Electronics,Evening,Cash,Dissatisfied,No,Groceries,98462,145,Suburban,6
+CUST1412,24,Female,78722,Doctor,4,263.31,Fashion,Morning,Credit Card,Very Dissatisfied,No,Mixed,82229,96,Rural,4
+CUST1413,52,Female,139886,Freelancer,6,159.68,Fashion,Morning,Cash,Dissatisfied,Yes,Fashion,87365,32,Suburban,2
+CUST1414,54,Female,27694,Freelancer,2,196.2,Electronics,Afternoon,Credit Card,Dissatisfied,No,Fashion,88014,88,Urban,4
+CUST1415,36,Male,71182,Engineer,4,101.38,Beauty,Afternoon,Mobile Wallet,Very Dissatisfied,Yes,Fashion,67427,114,Suburban,4
+CUST1416,59,Female,81092,Student,1,230.53,Technology,Morning,Credit Card,Neutral,No,Electronics,96600,122,Urban,4
+CUST1417,36,Male,199425,Student,9,282.3,Groceries,Morning,Credit Card,Very Dissatisfied,Yes,Mixed,47161,72,Urban,3
+CUST1418,56,Female,106621,Freelancer,8,218.49,Technology,Afternoon,Credit Card,Satisfied,Yes,Electronics,54101,106,Urban,0
+CUST1419,26,Male,171702,Student,11,484.29,Electronics,Afternoon,Debit Card,Very Dissatisfied,No,Mixed,50509,117,Urban,3
+CUST1420,31,Female,83153,Doctor,12,302.12,Beauty,Evening,Mobile Wallet,Dissatisfied,Yes,Mixed,27055,90,Urban,5
+CUST1421,25,Male,153939,Student,12,116.1,Groceries,Evening,Mobile Wallet,Satisfied,No,Electronics,34678,109,Suburban,7
+CUST1422,24,Female,120625,Engineer,14,20.43,Technology,Morning,Cash,Neutral,Yes,Mixed,56182,180,Rural,0
+CUST1423,33,Male,149856,Doctor,11,300.71,Technology,Morning,Mobile Wallet,Dissatisfied,Yes,Fashion,4381,95,Rural,7
+CUST1424,43,Male,70759,Student,13,60.19,Groceries,Morning,Debit Card,Dissatisfied,No,Electronics,40865,48,Urban,5
+CUST1425,58,Female,168093,Student,12,433.54,Technology,Morning,Cash,Neutral,Yes,Electronics,31202,93,Rural,3
+CUST1426,56,Male,147580,Doctor,5,335.21,Technology,Morning,Cash,Neutral,Yes,Electronics,14268,154,Urban,7
+CUST1427,60,Female,162920,Manager,14,84.56,Groceries,Morning,Cash,Dissatisfied,Yes,Fashion,57320,158,Rural,6
+CUST1428,59,Female,65632,Student,4,67.0,Technology,Morning,Mobile Wallet,Very Dissatisfied,No,Fashion,24120,157,Urban,5
+CUST1429,59,Female,134488,Doctor,3,407.05,Fashion,Afternoon,Cash,Satisfied,Yes,Fashion,94984,120,Suburban,2
+CUST1430,60,Female,58903,Engineer,6,362.95,Electronics,Morning,Credit Card,Satisfied,No,Groceries,71945,64,Rural,4
+CUST1431,46,Male,24379,Student,4,432.08,Fashion,Morning,Debit Card,Very Dissatisfied,Yes,Mixed,30748,132,Rural,1
+CUST1432,53,Female,146270,Student,4,111.84,Beauty,Evening,Mobile Wallet,Satisfied,No,Mixed,67780,86,Urban,6
+CUST1433,46,Female,140622,Student,14,453.81,Fashion,Afternoon,Debit Card,Very Satisfied,Yes,Groceries,35699,174,Rural,7
+CUST1434,57,Male,193035,Doctor,15,393.64,Groceries,Evening,Debit Card,Very Satisfied,No,Mixed,94880,157,Rural,6
+CUST1435,70,Female,193215,Freelancer,4,421.98,Fashion,Morning,Credit Card,Very Dissatisfied,No,Fashion,34180,164,Rural,3
+CUST1436,48,Female,147810,Doctor,7,106.17,Fashion,Afternoon,Mobile Wallet,Very Satisfied,No,Fashion,17879,31,Rural,7
+CUST1437,62,Female,80618,Manager,9,224.38,Technology,Afternoon,Mobile Wallet,Neutral,Yes,Electronics,88868,96,Rural,4
+CUST1438,56,Male,192834,Manager,4,176.21,Groceries,Afternoon,Mobile Wallet,Satisfied,No,Mixed,15318,146,Rural,3
+CUST1439,41,Male,187565,Student,10,111.64,Fashion,Evening,Credit Card,Very Dissatisfied,No,Fashion,93142,154,Urban,6
+CUST1440,37,Male,154418,Teacher,14,447.48,Groceries,Morning,Cash,Satisfied,No,Electronics,50694,138,Suburban,6
+CUST1441,51,Male,43669,Student,15,90.35,Beauty,Afternoon,Credit Card,Neutral,Yes,Mixed,10039,148,Suburban,1
+CUST1442,43,Female,29545,Engineer,1,373.97,Electronics,Morning,Debit Card,Neutral,No,Electronics,80581,95,Suburban,4
+CUST1443,40,Male,108643,Manager,12,387.66,Electronics,Morning,Debit Card,Dissatisfied,No,Mixed,81296,36,Suburban,2
+CUST1444,37,Female,128123,Student,1,302.1,Electronics,Evening,Debit Card,Neutral,Yes,Fashion,41390,90,Urban,0
+CUST1445,57,Female,185986,Student,13,33.41,Fashion,Afternoon,Mobile Wallet,Very Satisfied,No,Fashion,17049,139,Rural,3
+CUST1446,28,Female,50676,Manager,4,268.9,Groceries,Evening,Mobile Wallet,Dissatisfied,Yes,Groceries,93620,79,Urban,4
+CUST1447,54,Male,80744,Engineer,10,211.02,Fashion,Afternoon,Credit Card,Dissatisfied,No,Mixed,27555,149,Urban,5
+CUST1448,26,Male,78090,Doctor,7,128.09,Technology,Evening,Cash,Neutral,No,Fashion,78960,170,Rural,4
+CUST1449,43,Female,24435,Teacher,12,363.09,Electronics,Evening,Debit Card,Satisfied,Yes,Electronics,4002,109,Suburban,1
+CUST1450,33,Male,143009,Freelancer,6,211.39,Technology,Evening,Mobile Wallet,Dissatisfied,Yes,Mixed,91811,134,Suburban,2
+CUST1451,59,Male,97606,Doctor,13,118.87,Technology,Afternoon,Debit Card,Very Satisfied,No,Electronics,35632,70,Rural,5
+CUST1452,38,Male,54833,Freelancer,15,331.72,Technology,Morning,Cash,Neutral,No,Groceries,92835,174,Suburban,4
+CUST1453,32,Male,85349,Freelancer,8,293.21,Fashion,Morning,Mobile Wallet,Very Dissatisfied,Yes,Groceries,78710,75,Suburban,4
+CUST1454,39,Male,139354,Manager,14,72.67,Groceries,Morning,Cash,Dissatisfied,Yes,Fashion,3799,83,Urban,7
+CUST1455,31,Male,194556,Teacher,10,88.74,Groceries,Morning,Debit Card,Neutral,Yes,Electronics,91173,170,Urban,6
+CUST1456,63,Female,82601,Student,6,364.15,Technology,Evening,Mobile Wallet,Very Dissatisfied,No,Mixed,17787,34,Urban,5
+CUST1457,49,Male,23873,Teacher,9,348.77,Groceries,Afternoon,Cash,Dissatisfied,Yes,Mixed,79624,161,Urban,4
+CUST1458,45,Male,172111,Manager,2,289.41,Fashion,Afternoon,Credit Card,Very Dissatisfied,Yes,Fashion,98697,143,Rural,6
+CUST1459,38,Female,22773,Doctor,1,276.24,Groceries,Evening,Mobile Wallet,Neutral,Yes,Electronics,38165,55,Urban,1
+CUST1460,18,Female,142726,Doctor,1,237.3,Beauty,Afternoon,Mobile Wallet,Neutral,Yes,Mixed,34146,149,Suburban,7
+CUST1461,36,Female,86115,Engineer,12,282.13,Electronics,Evening,Debit Card,Very Satisfied,Yes,Groceries,62268,175,Rural,4
+CUST1462,57,Male,92459,Teacher,3,38.94,Technology,Evening,Cash,Very Dissatisfied,No,Mixed,3438,48,Urban,5
+CUST1463,52,Female,24521,Freelancer,10,282.08,Beauty,Morning,Debit Card,Very Dissatisfied,Yes,Fashion,48750,140,Urban,1
+CUST1464,19,Male,49518,Engineer,10,243.03,Fashion,Morning,Credit Card,Satisfied,No,Mixed,42623,141,Rural,1
+CUST1465,56,Male,56364,Doctor,13,474.52,Fashion,Evening,Debit Card,Dissatisfied,No,Fashion,9145,102,Rural,1
+CUST1466,27,Male,156945,Teacher,12,300.86,Beauty,Evening,Cash,Very Dissatisfied,Yes,Fashion,72896,118,Urban,6
+CUST1467,19,Male,96666,Freelancer,6,107.31,Groceries,Morning,Debit Card,Very Satisfied,No,Mixed,22105,38,Rural,5
+CUST1468,35,Male,159274,Freelancer,14,474.43,Groceries,Afternoon,Debit Card,Satisfied,Yes,Electronics,64841,84,Urban,6
+CUST1469,41,Female,152305,Teacher,3,393.03,Groceries,Afternoon,Credit Card,Satisfied,No,Electronics,97686,153,Suburban,6
+CUST1470,47,Male,94640,Teacher,3,481.9,Beauty,Morning,Debit Card,Very Dissatisfied,No,Electronics,56012,153,Rural,0
+CUST1471,49,Male,43437,Teacher,10,231.57,Technology,Afternoon,Cash,Very Satisfied,No,Mixed,34971,75,Rural,1
+CUST1472,70,Male,167289,Freelancer,3,39.12,Technology,Afternoon,Mobile Wallet,Satisfied,No,Groceries,29695,173,Rural,3
+CUST1473,26,Female,51812,Teacher,7,57.01,Fashion,Evening,Cash,Dissatisfied,No,Fashion,16438,109,Rural,1
+CUST1474,30,Male,64240,Teacher,5,89.02,Fashion,Afternoon,Credit Card,Dissatisfied,Yes,Electronics,64655,158,Urban,4
+CUST1475,36,Female,155865,Teacher,13,77.77,Fashion,Evening,Debit Card,Dissatisfied,No,Fashion,75110,96,Suburban,6
+CUST1476,36,Male,31760,Doctor,7,172.83,Fashion,Afternoon,Debit Card,Dissatisfied,Yes,Groceries,21377,157,Suburban,1
+CUST1477,31,Male,74316,Manager,8,181.68,Beauty,Afternoon,Debit Card,Satisfied,Yes,Groceries,31296,104,Urban,5
+CUST1478,46,Male,96253,Engineer,6,255.07,Electronics,Morning,Credit Card,Satisfied,Yes,Electronics,37778,96,Suburban,5
+CUST1479,36,Female,92956,Doctor,5,51.93,Electronics,Morning,Credit Card,Dissatisfied,Yes,Groceries,49758,49,Urban,0
+CUST1480,70,Male,165635,Teacher,8,31.01,Technology,Afternoon,Mobile Wallet,Very Dissatisfied,No,Mixed,81566,79,Urban,6
+CUST1481,53,Female,107185,Student,15,36.59,Electronics,Evening,Debit Card,Very Satisfied,No,Groceries,97690,158,Urban,2
+CUST1482,31,Female,22664,Student,11,312.93,Beauty,Morning,Credit Card,Satisfied,Yes,Mixed,76368,46,Urban,4
+CUST1483,39,Female,153384,Teacher,13,116.79,Beauty,Evening,Mobile Wallet,Neutral,Yes,Mixed,34383,75,Suburban,7
+CUST1484,24,Male,136301,Doctor,14,159.81,Electronics,Evening,Cash,Very Dissatisfied,No,Electronics,82538,130,Rural,2
+CUST1485,34,Female,34803,Manager,1,339.27,Groceries,Afternoon,Debit Card,Very Satisfied,Yes,Fashion,63602,128,Suburban,4
+CUST1486,47,Male,44909,Freelancer,11,119.08,Groceries,Evening,Mobile Wallet,Very Dissatisfied,Yes,Fashion,60724,121,Urban,4
+CUST1487,34,Male,109510,Freelancer,11,445.5,Technology,Evening,Mobile Wallet,Very Satisfied,No,Electronics,68270,138,Urban,2
+CUST1488,50,Male,74236,Student,11,138.62,Electronics,Afternoon,Debit Card,Dissatisfied,Yes,Electronics,2438,173,Suburban,5
+CUST1489,20,Male,134694,Student,5,317.22,Electronics,Evening,Debit Card,Dissatisfied,No,Electronics,5811,162,Suburban,7
+CUST1490,63,Male,114206,Student,8,172.45,Technology,Evening,Credit Card,Very Dissatisfied,No,Mixed,28483,136,Suburban,0
+CUST1491,53,Female,199166,Engineer,2,266.17,Beauty,Evening,Debit Card,Very Satisfied,Yes,Electronics,30164,143,Suburban,3
+CUST1492,26,Male,175914,Teacher,4,356.73,Fashion,Morning,Credit Card,Satisfied,Yes,Groceries,45337,108,Rural,3
+CUST1493,44,Male,68373,Freelancer,3,203.49,Fashion,Evening,Debit Card,Neutral,No,Fashion,67509,47,Suburban,4
+CUST1494,69,Male,110663,Student,4,69.03,Groceries,Evening,Mobile Wallet,Very Satisfied,Yes,Mixed,73480,81,Suburban,2
+CUST1495,36,Male,183318,Engineer,5,221.52,Beauty,Afternoon,Mobile Wallet,Very Dissatisfied,No,Fashion,57798,110,Rural,6
+CUST1496,53,Female,77654,Engineer,11,491.24,Beauty,Morning,Debit Card,Neutral,Yes,Fashion,67934,54,Urban,4
+CUST1497,64,Male,88327,Manager,1,380.21,Groceries,Evening,Mobile Wallet,Satisfied,Yes,Mixed,94461,101,Rural,2
+CUST1498,54,Female,63270,Teacher,15,34.55,Groceries,Evening,Cash,Neutral,No,Fashion,10589,62,Rural,5
+CUST1499,41,Male,121518,Freelancer,1,352.03,Beauty,Morning,Cash,Satisfied,No,Electronics,83209,68,Urban,2
+CUST1500,31,Male,125033,Teacher,1,340.27,Groceries,Evening,Cash,Very Dissatisfied,Yes,Mixed,67003,81,Urban,0
+CUST1501,45,Female,25153,Freelancer,3,331.39,Technology,Afternoon,Cash,Satisfied,Yes,Fashion,75423,142,Suburban,4
+CUST1502,18,Female,195526,Teacher,15,459.24,Electronics,Afternoon,Credit Card,Satisfied,No,Mixed,18795,79,Rural,3
+CUST1503,53,Male,144149,Teacher,11,355.92,Technology,Morning,Credit Card,Dissatisfied,No,Fashion,99722,31,Suburban,2
+CUST1504,36,Male,22702,Student,8,30.56,Groceries,Afternoon,Cash,Neutral,No,Fashion,43791,44,Suburban,1
+CUST1505,20,Female,41978,Engineer,8,76.92,Technology,Afternoon,Mobile Wallet,Neutral,No,Groceries,56352,40,Suburban,4
+CUST1506,69,Female,50418,Engineer,1,254.68,Groceries,Evening,Cash,Very Dissatisfied,No,Electronics,33281,138,Suburban,1
+CUST1507,51,Female,29234,Doctor,12,346.69,Beauty,Evening,Mobile Wallet,Satisfied,No,Mixed,42955,43,Urban,1
+CUST1508,19,Female,192085,Engineer,13,214.59,Beauty,Morning,Cash,Very Satisfied,Yes,Mixed,21735,75,Urban,3
+CUST1509,41,Male,180489,Freelancer,5,175.45,Groceries,Afternoon,Debit Card,Very Dissatisfied,Yes,Electronics,87239,102,Rural,6
+CUST1510,40,Male,113177,Teacher,14,62.99,Beauty,Morning,Debit Card,Dissatisfied,No,Groceries,35851,44,Rural,0
+CUST1511,54,Male,24442,Student,8,300.28,Beauty,Afternoon,Credit Card,Dissatisfied,No,Fashion,55779,163,Rural,1
+CUST1512,47,Female,47283,Engineer,5,84.74,Technology,Evening,Cash,Satisfied,Yes,Electronics,11464,42,Rural,1
+CUST1513,56,Female,174372,Teacher,7,157.68,Electronics,Evening,Cash,Neutral,Yes,Fashion,22899,36,Urban,3
+CUST1514,24,Male,65275,Freelancer,12,94.38,Beauty,Evening,Credit Card,Very Satisfied,Yes,Mixed,13464,141,Suburban,5
+CUST1515,32,Male,88856,Teacher,3,317.79,Fashion,Afternoon,Credit Card,Neutral,Yes,Mixed,40506,31,Urban,5
+CUST1516,40,Female,190707,Student,3,221.98,Electronics,Evening,Cash,Very Satisfied,No,Electronics,73429,117,Urban,6
+CUST1517,21,Male,45431,Manager,12,393.74,Groceries,Morning,Debit Card,Very Satisfied,No,Electronics,18665,103,Rural,1
+CUST1518,38,Female,29205,Freelancer,7,197.47,Technology,Morning,Credit Card,Very Dissatisfied,Yes,Electronics,97362,118,Rural,4
+CUST1519,46,Female,191375,Engineer,15,317.38,Groceries,Evening,Credit Card,Dissatisfied,Yes,Groceries,46989,42,Suburban,3
+CUST1520,42,Male,89268,Doctor,2,94.08,Technology,Morning,Cash,Very Satisfied,No,Mixed,9782,40,Suburban,5
+CUST1521,60,Female,61630,Engineer,13,39.56,Technology,Evening,Credit Card,Very Satisfied,Yes,Fashion,26314,102,Rural,5
+CUST1522,32,Male,43809,Student,9,392.21,Electronics,Afternoon,Cash,Neutral,Yes,Fashion,37032,55,Urban,1
+CUST1523,25,Male,169922,Student,4,214.86,Electronics,Evening,Mobile Wallet,Dissatisfied,No,Fashion,79313,101,Rural,6
+CUST1524,52,Male,140367,Teacher,11,272.29,Fashion,Morning,Debit Card,Dissatisfied,No,Fashion,7417,45,Urban,7
+CUST1525,63,Male,59402,Student,11,233.81,Beauty,Evening,Credit Card,Dissatisfied,Yes,Fashion,70216,103,Rural,4
+CUST1526,38,Female,21298,Manager,15,347.3,Technology,Morning,Cash,Dissatisfied,Yes,Groceries,12921,173,Rural,1
+CUST1527,48,Male,145961,Engineer,14,338.49,Beauty,Morning,Credit Card,Satisfied,No,Groceries,41485,98,Urban,7
+CUST1528,30,Male,120222,Freelancer,4,214.41,Electronics,Evening,Debit Card,Satisfied,No,Fashion,99682,146,Rural,2
+CUST1529,68,Male,136855,Manager,11,389.33,Beauty,Evening,Mobile Wallet,Neutral,Yes,Groceries,5221,165,Rural,7
+CUST1530,35,Female,110839,Doctor,8,477.05,Technology,Afternoon,Credit Card,Neutral,No,Electronics,11620,106,Urban,5
+CUST1531,38,Female,90407,Engineer,1,278.46,Beauty,Evening,Debit Card,Dissatisfied,Yes,Electronics,77158,169,Suburban,2
+CUST1532,56,Female,164513,Teacher,4,371.71,Groceries,Evening,Cash,Very Dissatisfied,Yes,Groceries,4810,93,Urban,7
+CUST1533,66,Male,167420,Doctor,11,314.75,Electronics,Afternoon,Cash,Dissatisfied,Yes,Groceries,31154,145,Rural,3
+CUST1534,68,Female,92381,Student,4,151.25,Beauty,Afternoon,Credit Card,Dissatisfied,No,Electronics,59572,110,Urban,0
+CUST1535,31,Male,190473,Manager,7,266.24,Electronics,Evening,Credit Card,Neutral,No,Electronics,59357,139,Suburban,6
+CUST1536,21,Female,119324,Teacher,7,433.78,Beauty,Afternoon,Mobile Wallet,Very Satisfied,Yes,Groceries,72972,96,Rural,2
+CUST1537,50,Male,75042,Manager,3,56.72,Electronics,Morning,Mobile Wallet,Very Satisfied,No,Groceries,37970,115,Urban,5
+CUST1538,59,Female,137461,Freelancer,10,426.31,Fashion,Evening,Cash,Neutral,Yes,Groceries,36061,71,Urban,7
+CUST1539,55,Male,95525,Engineer,7,440.4,Electronics,Evening,Debit Card,Neutral,Yes,Mixed,82944,52,Suburban,2
+CUST1540,55,Female,133545,Freelancer,12,34.84,Fashion,Afternoon,Debit Card,Very Dissatisfied,Yes,Electronics,3487,113,Suburban,7
+CUST1541,44,Male,138319,Manager,12,260.32,Groceries,Afternoon,Mobile Wallet,Satisfied,Yes,Groceries,16910,152,Rural,7
+CUST1542,37,Male,128386,Doctor,12,393.04,Fashion,Morning,Mobile Wallet,Very Satisfied,No,Mixed,52986,69,Urban,0
+CUST1543,34,Male,136336,Freelancer,10,168.31,Groceries,Afternoon,Credit Card,Very Satisfied,No,Groceries,74744,61,Urban,2
+CUST1544,56,Male,123406,Doctor,11,492.08,Electronics,Evening,Mobile Wallet,Neutral,Yes,Electronics,86500,113,Suburban,2
+CUST1545,53,Male,23315,Engineer,4,209.9,Groceries,Morning,Cash,Very Dissatisfied,No,Groceries,63109,97,Rural,4
+CUST1546,32,Male,36568,Freelancer,3,354.56,Electronics,Afternoon,Mobile Wallet,Satisfied,Yes,Mixed,50303,158,Urban,1
+CUST1547,69,Male,160050,Doctor,9,389.0,Electronics,Evening,Mobile Wallet,Very Dissatisfied,No,Electronics,31720,155,Rural,7
+CUST1548,37,Male,59433,Student,11,150.34,Electronics,Afternoon,Mobile Wallet,Very Satisfied,No,Groceries,62201,112,Urban,4
+CUST1549,24,Male,68949,Freelancer,7,253.27,Technology,Afternoon,Debit Card,Very Dissatisfied,No,Mixed,59702,52,Urban,4
+CUST1550,48,Female,105611,Doctor,15,130.82,Technology,Afternoon,Credit Card,Dissatisfied,No,Fashion,96321,81,Rural,2
+CUST1551,23,Male,183855,Engineer,10,86.97,Fashion,Afternoon,Credit Card,Dissatisfied,Yes,Electronics,74793,180,Urban,6
+CUST1552,68,Female,45841,Teacher,7,403.29,Groceries,Afternoon,Cash,Neutral,Yes,Fashion,26494,122,Urban,1
+CUST1553,29,Male,99422,Freelancer,2,429.06,Fashion,Evening,Credit Card,Very Satisfied,No,Groceries,62754,145,Urban,0
+CUST1554,37,Female,196136,Student,11,115.59,Beauty,Afternoon,Cash,Very Satisfied,Yes,Electronics,85026,113,Urban,6
+CUST1555,60,Male,36723,Student,1,372.88,Electronics,Afternoon,Debit Card,Very Dissatisfied,No,Groceries,47053,136,Suburban,1
+CUST1556,42,Female,185047,Freelancer,1,348.05,Technology,Morning,Cash,Dissatisfied,No,Groceries,68196,92,Rural,6
+CUST1557,65,Female,99269,Freelancer,1,67.63,Groceries,Afternoon,Credit Card,Very Dissatisfied,Yes,Electronics,72412,121,Urban,2
+CUST1558,39,Female,132699,Teacher,5,136.8,Technology,Morning,Mobile Wallet,Neutral,No,Electronics,57482,138,Suburban,0
+CUST1559,44,Female,141513,Freelancer,3,58.68,Groceries,Evening,Cash,Very Dissatisfied,No,Electronics,83807,174,Urban,2
+CUST1560,27,Male,99289,Doctor,11,149.65,Beauty,Afternoon,Cash,Satisfied,No,Groceries,89127,65,Urban,2
+CUST1561,53,Female,72489,Manager,7,151.5,Beauty,Afternoon,Mobile Wallet,Dissatisfied,No,Fashion,44039,57,Suburban,5
+CUST1562,30,Female,121827,Engineer,3,61.8,Groceries,Morning,Credit Card,Dissatisfied,No,Electronics,58447,116,Rural,0
+CUST1563,63,Male,140033,Student,8,133.52,Fashion,Morning,Credit Card,Satisfied,No,Fashion,6361,49,Urban,7
+CUST1564,31,Male,45148,Engineer,14,264.0,Beauty,Evening,Cash,Neutral,Yes,Groceries,22180,37,Suburban,1
+CUST1565,42,Male,118297,Freelancer,3,430.58,Electronics,Morning,Credit Card,Very Dissatisfied,Yes,Fashion,81268,48,Urban,2
+CUST1566,29,Female,136342,Manager,5,499.19,Beauty,Evening,Credit Card,Satisfied,Yes,Groceries,91219,94,Urban,2
+CUST1567,27,Female,68090,Freelancer,1,355.95,Technology,Morning,Mobile Wallet,Dissatisfied,Yes,Fashion,72709,167,Suburban,4
+CUST1568,52,Female,126482,Engineer,11,484.4,Beauty,Evening,Mobile Wallet,Very Dissatisfied,No,Fashion,24160,34,Rural,7
+CUST1569,66,Male,21526,Freelancer,11,335.8,Technology,Morning,Debit Card,Dissatisfied,Yes,Groceries,98183,66,Urban,4
+CUST1570,36,Female,27007,Teacher,6,240.38,Technology,Evening,Mobile Wallet,Neutral,No,Fashion,49806,36,Rural,1
+CUST1571,23,Male,185430,Freelancer,3,305.01,Technology,Evening,Cash,Satisfied,Yes,Electronics,4734,46,Urban,3
+CUST1572,56,Male,24299,Student,10,460.44,Technology,Morning,Debit Card,Neutral,No,Fashion,37945,130,Suburban,1
+CUST1573,47,Female,26171,Freelancer,9,404.29,Electronics,Afternoon,Credit Card,Very Satisfied,No,Mixed,52345,100,Urban,1
+CUST1574,31,Male,92177,Engineer,15,147.13,Technology,Morning,Credit Card,Neutral,No,Fashion,8968,87,Rural,5
+CUST1575,52,Female,52831,Freelancer,3,67.31,Technology,Morning,Debit Card,Neutral,Yes,Groceries,43941,172,Suburban,1
+CUST1576,35,Male,39309,Teacher,9,357.23,Fashion,Evening,Credit Card,Dissatisfied,No,Electronics,18834,68,Urban,1
+CUST1577,51,Female,41469,Manager,13,210.84,Electronics,Morning,Debit Card,Neutral,No,Mixed,12085,143,Urban,1
+CUST1578,36,Male,30920,Manager,7,343.9,Electronics,Afternoon,Credit Card,Satisfied,No,Mixed,17669,116,Urban,1
+CUST1579,44,Female,39119,Doctor,9,376.09,Fashion,Morning,Mobile Wallet,Dissatisfied,No,Mixed,99324,152,Rural,4
+CUST1580,65,Male,98304,Manager,4,441.76,Fashion,Morning,Credit Card,Satisfied,No,Mixed,41548,174,Rural,0
+CUST1581,22,Male,33403,Manager,3,431.11,Groceries,Evening,Debit Card,Neutral,No,Mixed,22593,180,Rural,1
+CUST1582,22,Male,195242,Teacher,2,356.95,Technology,Afternoon,Credit Card,Satisfied,No,Mixed,94342,100,Suburban,6
+CUST1583,31,Male,103397,Teacher,3,152.07,Technology,Morning,Credit Card,Neutral,Yes,Mixed,87701,166,Urban,2
+CUST1584,64,Female,172562,Student,15,450.88,Technology,Morning,Mobile Wallet,Neutral,No,Groceries,20744,164,Suburban,3
+CUST1585,38,Male,120167,Freelancer,7,432.79,Groceries,Evening,Debit Card,Neutral,Yes,Electronics,88887,123,Rural,2
+CUST1586,33,Male,169383,Student,6,183.53,Beauty,Afternoon,Debit Card,Dissatisfied,No,Electronics,72495,76,Rural,6
+CUST1587,33,Female,39461,Engineer,1,67.85,Fashion,Afternoon,Credit Card,Very Satisfied,No,Fashion,8490,110,Urban,1
+CUST1588,45,Female,153426,Manager,14,329.76,Technology,Evening,Debit Card,Dissatisfied,Yes,Groceries,28930,127,Urban,7
+CUST1589,55,Female,100673,Doctor,6,435.35,Beauty,Afternoon,Cash,Satisfied,No,Electronics,46383,32,Suburban,0
+CUST1590,59,Female,126992,Manager,12,41.23,Beauty,Morning,Credit Card,Very Dissatisfied,No,Mixed,93545,117,Urban,2
+CUST1591,45,Female,47843,Engineer,15,427.38,Beauty,Evening,Credit Card,Neutral,No,Mixed,47149,67,Suburban,1
+CUST1592,35,Female,50898,Student,4,240.25,Groceries,Morning,Cash,Dissatisfied,No,Mixed,22422,99,Rural,1
+CUST1593,69,Male,115941,Student,14,201.86,Beauty,Evening,Cash,Satisfied,Yes,Electronics,86227,53,Urban,2
+CUST1594,41,Female,25441,Doctor,7,439.27,Beauty,Afternoon,Mobile Wallet,Dissatisfied,Yes,Electronics,53226,107,Urban,1
+CUST1595,38,Female,135978,Freelancer,1,316.89,Fashion,Morning,Cash,Dissatisfied,Yes,Fashion,82603,149,Urban,2
+CUST1596,34,Male,140628,Teacher,12,448.61,Electronics,Morning,Cash,Very Satisfied,No,Groceries,75492,171,Urban,2
+CUST1597,29,Male,149472,Engineer,10,56.18,Electronics,Afternoon,Mobile Wallet,Very Satisfied,No,Fashion,56413,109,Rural,6
+CUST1598,66,Female,105710,Manager,4,111.78,Electronics,Morning,Debit Card,Satisfied,No,Electronics,64272,165,Rural,0
+CUST1599,25,Male,26156,Teacher,15,294.35,Beauty,Morning,Mobile Wallet,Very Satisfied,Yes,Mixed,55807,160,Rural,1
+CUST1600,61,Male,78314,Freelancer,11,312.1,Groceries,Morning,Credit Card,Very Dissatisfied,Yes,Electronics,18939,141,Rural,5
+CUST1601,20,Female,195614,Doctor,14,371.37,Beauty,Evening,Credit Card,Satisfied,Yes,Groceries,86475,62,Urban,6
+CUST1602,25,Male,148992,Engineer,7,252.89,Beauty,Evening,Credit Card,Satisfied,Yes,Fashion,85170,78,Urban,6
+CUST1603,32,Female,74515,Student,2,297.24,Groceries,Morning,Debit Card,Very Satisfied,No,Electronics,59330,98,Rural,4
+CUST1604,50,Female,50343,Engineer,15,426.13,Technology,Evening,Debit Card,Dissatisfied,No,Groceries,84924,148,Suburban,4
+CUST1605,57,Female,131022,Student,11,392.19,Electronics,Morning,Credit Card,Satisfied,No,Groceries,20542,154,Urban,7
+CUST1606,50,Female,161076,Engineer,10,260.29,Fashion,Morning,Cash,Very Dissatisfied,No,Groceries,59593,136,Urban,6
+CUST1607,35,Female,77472,Doctor,12,293.37,Technology,Morning,Credit Card,Very Dissatisfied,No,Mixed,43009,82,Suburban,5
+CUST1608,58,Female,80755,Freelancer,2,40.42,Beauty,Afternoon,Debit Card,Satisfied,No,Electronics,40842,128,Suburban,5
+CUST1609,66,Female,171279,Engineer,12,385.37,Technology,Afternoon,Cash,Very Satisfied,No,Mixed,35352,111,Urban,3
+CUST1610,22,Male,82091,Freelancer,4,159.12,Technology,Evening,Mobile Wallet,Satisfied,No,Fashion,50929,161,Suburban,5
+CUST1611,23,Female,80883,Teacher,7,411.11,Electronics,Morning,Credit Card,Very Satisfied,Yes,Electronics,90085,122,Rural,4
+CUST1612,58,Female,131496,Doctor,15,229.18,Beauty,Morning,Cash,Satisfied,Yes,Fashion,59987,81,Rural,0
+CUST1613,36,Male,66337,Student,2,23.05,Technology,Evening,Mobile Wallet,Very Dissatisfied,Yes,Mixed,66790,133,Rural,4
+CUST1614,64,Male,109564,Doctor,12,35.86,Beauty,Morning,Mobile Wallet,Very Satisfied,Yes,Electronics,80625,126,Rural,2
+CUST1615,50,Female,23945,Teacher,1,165.15,Electronics,Afternoon,Debit Card,Satisfied,No,Mixed,84033,70,Urban,4
+CUST1616,49,Male,137855,Teacher,14,375.7,Beauty,Afternoon,Debit Card,Very Dissatisfied,No,Fashion,65902,151,Urban,0
+CUST1617,55,Female,138033,Manager,2,381.48,Beauty,Afternoon,Debit Card,Very Dissatisfied,Yes,Electronics,83339,75,Suburban,2
+CUST1618,37,Male,184084,Engineer,7,350.42,Fashion,Afternoon,Mobile Wallet,Very Satisfied,Yes,Electronics,77824,170,Urban,6
+CUST1619,35,Male,145724,Manager,12,48.22,Electronics,Morning,Credit Card,Very Dissatisfied,Yes,Electronics,10256,135,Rural,7
+CUST1620,48,Male,60653,Engineer,14,104.79,Fashion,Evening,Cash,Dissatisfied,Yes,Groceries,83636,116,Urban,4
+CUST1621,23,Male,77429,Teacher,1,279.9,Electronics,Evening,Cash,Dissatisfied,No,Electronics,13337,39,Rural,5
+CUST1622,41,Female,36555,Student,4,470.87,Beauty,Evening,Cash,Neutral,No,Electronics,23603,61,Rural,1
+CUST1623,34,Male,179030,Freelancer,4,74.12,Fashion,Afternoon,Credit Card,Neutral,Yes,Mixed,45171,101,Suburban,3
+CUST1624,33,Male,178212,Doctor,8,279.56,Technology,Morning,Mobile Wallet,Very Satisfied,No,Fashion,51745,60,Urban,3
+CUST1625,19,Female,39848,Engineer,9,181.27,Fashion,Afternoon,Credit Card,Neutral,Yes,Mixed,13752,88,Urban,1
+CUST1626,58,Male,182307,Freelancer,2,421.93,Electronics,Afternoon,Debit Card,Satisfied,No,Electronics,97240,164,Rural,6
+CUST1627,21,Male,153893,Manager,10,224.82,Groceries,Afternoon,Debit Card,Dissatisfied,No,Groceries,98418,110,Suburban,6
+CUST1628,59,Male,96190,Manager,11,461.93,Technology,Morning,Credit Card,Neutral,Yes,Groceries,50343,40,Urban,0
+CUST1629,23,Male,124304,Manager,10,498.58,Groceries,Morning,Debit Card,Neutral,Yes,Electronics,88512,62,Rural,2
+CUST1630,27,Female,142610,Teacher,7,278.45,Fashion,Evening,Credit Card,Satisfied,No,Electronics,86657,72,Rural,2
+CUST1631,52,Male,166592,Teacher,14,360.96,Beauty,Morning,Credit Card,Very Satisfied,No,Fashion,45719,124,Rural,3
+CUST1632,43,Male,82015,Student,2,261.63,Beauty,Afternoon,Credit Card,Satisfied,Yes,Electronics,13145,72,Rural,5
+CUST1633,66,Male,124159,Doctor,9,156.32,Electronics,Morning,Credit Card,Very Dissatisfied,No,Mixed,83374,52,Rural,2
+CUST1634,66,Male,170584,Teacher,9,457.23,Beauty,Afternoon,Cash,Very Satisfied,Yes,Fashion,96955,81,Urban,6
+CUST1635,62,Male,197223,Engineer,13,285.73,Electronics,Afternoon,Credit Card,Dissatisfied,No,Fashion,73391,34,Urban,6
+CUST1636,57,Male,95141,Manager,3,82.62,Fashion,Evening,Credit Card,Very Satisfied,Yes,Fashion,20942,71,Urban,5
+CUST1637,46,Female,196917,Teacher,14,462.69,Electronics,Afternoon,Debit Card,Very Dissatisfied,No,Fashion,75016,55,Urban,6
+CUST1638,53,Male,163149,Student,10,125.13,Fashion,Morning,Debit Card,Very Satisfied,Yes,Groceries,96973,81,Rural,6
+CUST1639,24,Male,98230,Doctor,1,144.76,Technology,Evening,Mobile Wallet,Very Dissatisfied,No,Fashion,8440,170,Rural,5
+CUST1640,19,Male,116511,Teacher,9,128.84,Fashion,Morning,Cash,Neutral,Yes,Mixed,18093,34,Suburban,7
+CUST1641,26,Male,86857,Teacher,14,465.09,Beauty,Afternoon,Cash,Very Satisfied,No,Mixed,84668,165,Rural,2
+CUST1642,29,Female,22203,Student,1,425.91,Fashion,Afternoon,Credit Card,Neutral,No,Electronics,31459,60,Suburban,1
+CUST1643,50,Male,32530,Doctor,10,450.27,Electronics,Evening,Credit Card,Very Satisfied,Yes,Electronics,89937,147,Rural,4
+CUST1644,22,Male,82798,Freelancer,8,474.35,Electronics,Afternoon,Mobile Wallet,Satisfied,No,Fashion,9670,35,Rural,5
+CUST1645,45,Female,108201,Freelancer,5,468.65,Fashion,Afternoon,Mobile Wallet,Dissatisfied,No,Mixed,95041,180,Suburban,2
+CUST1646,61,Female,98333,Doctor,15,120.46,Groceries,Evening,Cash,Very Satisfied,Yes,Fashion,43747,156,Urban,0
+CUST1647,41,Female,146014,Manager,15,108.25,Fashion,Evening,Credit Card,Satisfied,No,Mixed,81624,54,Suburban,6
+CUST1648,45,Female,186095,Student,4,23.79,Beauty,Evening,Debit Card,Satisfied,No,Electronics,46871,57,Suburban,3
+CUST1649,36,Male,182965,Student,10,43.58,Electronics,Evening,Credit Card,Very Dissatisfied,Yes,Groceries,61640,134,Urban,6
+CUST1650,41,Female,71655,Manager,8,156.23,Technology,Afternoon,Cash,Satisfied,Yes,Mixed,56389,137,Urban,4
+CUST1651,22,Male,27320,Doctor,10,409.76,Technology,Morning,Credit Card,Neutral,Yes,Mixed,36753,178,Suburban,1
+CUST1652,28,Male,134209,Student,9,471.44,Fashion,Afternoon,Cash,Very Dissatisfied,Yes,Electronics,39783,123,Suburban,0
+CUST1653,35,Male,171229,Engineer,15,67.18,Technology,Morning,Debit Card,Very Satisfied,Yes,Mixed,86523,167,Urban,6
+CUST1654,47,Female,193716,Doctor,1,429.59,Groceries,Evening,Credit Card,Satisfied,Yes,Mixed,92787,173,Urban,6
+CUST1655,18,Female,124187,Student,8,50.95,Groceries,Afternoon,Cash,Very Satisfied,Yes,Mixed,89750,65,Rural,2
+CUST1656,56,Male,73018,Doctor,12,144.62,Technology,Evening,Cash,Neutral,Yes,Groceries,50065,73,Urban,5
+CUST1657,40,Male,171967,Freelancer,9,417.99,Technology,Evening,Credit Card,Dissatisfied,No,Electronics,82176,150,Suburban,6
+CUST1658,65,Female,148370,Teacher,1,331.21,Beauty,Evening,Mobile Wallet,Very Satisfied,No,Mixed,72247,128,Suburban,6
+CUST1659,47,Female,69857,Engineer,6,42.76,Beauty,Afternoon,Cash,Satisfied,No,Electronics,38630,137,Rural,5
+CUST1660,54,Male,27705,Doctor,6,296.6,Beauty,Evening,Mobile Wallet,Satisfied,Yes,Mixed,42144,120,Rural,1
+CUST1661,37,Female,91120,Student,4,248.45,Technology,Afternoon,Credit Card,Neutral,No,Groceries,22930,123,Rural,5
+CUST1662,69,Female,94959,Doctor,15,465.6,Fashion,Afternoon,Credit Card,Satisfied,Yes,Electronics,94612,70,Urban,2
+CUST1663,69,Male,31771,Doctor,3,237.93,Groceries,Morning,Debit Card,Neutral,Yes,Mixed,55809,101,Urban,1
+CUST1664,28,Female,54242,Engineer,6,317.45,Beauty,Morning,Cash,Satisfied,Yes,Electronics,10988,93,Urban,1
+CUST1665,37,Male,101257,Engineer,3,480.52,Beauty,Evening,Mobile Wallet,Satisfied,No,Mixed,32263,46,Urban,5
+CUST1666,31,Male,41826,Student,4,64.13,Beauty,Morning,Debit Card,Dissatisfied,Yes,Mixed,88531,106,Suburban,4
+CUST1667,49,Male,188549,Manager,3,331.75,Beauty,Morning,Credit Card,Very Dissatisfied,No,Groceries,5790,161,Urban,3
+CUST1668,70,Male,104268,Doctor,4,43.8,Technology,Evening,Cash,Very Dissatisfied,No,Groceries,40762,58,Rural,0
+CUST1669,45,Male,188353,Freelancer,7,354.52,Electronics,Morning,Mobile Wallet,Very Dissatisfied,Yes,Mixed,68352,83,Rural,6
+CUST1670,35,Male,79984,Engineer,4,243.18,Groceries,Evening,Mobile Wallet,Satisfied,No,Mixed,25339,60,Urban,5
+CUST1671,63,Male,103241,Student,1,71.76,Electronics,Afternoon,Credit Card,Satisfied,Yes,Fashion,82708,120,Suburban,2
+CUST1672,33,Female,171031,Student,11,477.63,Beauty,Evening,Debit Card,Dissatisfied,Yes,Fashion,59936,148,Urban,6
+CUST1673,20,Female,52860,Student,14,167.06,Groceries,Afternoon,Cash,Very Dissatisfied,Yes,Fashion,54854,144,Urban,4
+CUST1674,67,Female,128063,Teacher,3,134.44,Electronics,Evening,Debit Card,Satisfied,Yes,Mixed,50128,110,Rural,0
+CUST1675,66,Male,112049,Student,7,463.83,Beauty,Evening,Mobile Wallet,Very Dissatisfied,No,Fashion,55173,59,Rural,0
+CUST1676,24,Male,25706,Engineer,1,424.37,Electronics,Morning,Credit Card,Very Dissatisfied,No,Electronics,50226,126,Suburban,1
+CUST1677,33,Male,195138,Doctor,5,68.48,Fashion,Morning,Credit Card,Satisfied,Yes,Groceries,12237,128,Rural,3
+CUST1678,66,Male,21364,Student,4,288.34,Fashion,Afternoon,Mobile Wallet,Neutral,Yes,Fashion,2968,122,Urban,1
+CUST1679,26,Male,37005,Manager,4,112.03,Technology,Morning,Debit Card,Satisfied,Yes,Fashion,11139,49,Urban,1
+CUST1680,24,Male,88965,Freelancer,12,300.99,Technology,Afternoon,Cash,Satisfied,No,Mixed,92275,140,Suburban,2
+CUST1681,46,Female,62910,Engineer,14,52.44,Fashion,Afternoon,Cash,Satisfied,Yes,Fashion,78921,109,Suburban,4
+CUST1682,63,Male,78196,Teacher,4,199.98,Beauty,Evening,Cash,Neutral,Yes,Electronics,1225,117,Rural,5
+CUST1683,26,Female,49757,Doctor,12,460.5,Groceries,Afternoon,Cash,Very Dissatisfied,Yes,Groceries,62174,166,Suburban,4
+CUST1684,65,Female,64736,Student,14,420.51,Fashion,Afternoon,Debit Card,Very Dissatisfied,No,Mixed,73079,149,Urban,4
+CUST1685,24,Male,158909,Doctor,10,428.58,Beauty,Afternoon,Debit Card,Very Satisfied,No,Groceries,16522,83,Suburban,7
+CUST1686,28,Male,77612,Student,9,306.84,Electronics,Evening,Credit Card,Satisfied,No,Mixed,54909,85,Urban,5
+CUST1687,23,Female,28624,Manager,6,229.31,Beauty,Morning,Mobile Wallet,Very Dissatisfied,No,Fashion,47263,114,Urban,1
+CUST1688,19,Male,135240,Doctor,12,382.14,Beauty,Morning,Credit Card,Neutral,Yes,Fashion,57223,165,Suburban,0
+CUST1689,60,Male,120005,Student,3,151.84,Fashion,Morning,Debit Card,Dissatisfied,No,Fashion,64217,132,Urban,0
+CUST1690,19,Male,35278,Manager,15,427.2,Beauty,Afternoon,Mobile Wallet,Very Dissatisfied,No,Groceries,70902,39,Suburban,4
+CUST1691,45,Female,144480,Engineer,15,242.45,Technology,Afternoon,Cash,Very Dissatisfied,No,Fashion,2483,116,Urban,7
+CUST1692,70,Male,107760,Manager,3,237.3,Beauty,Morning,Debit Card,Very Dissatisfied,No,Mixed,65688,95,Suburban,0
+CUST1693,44,Male,184573,Manager,8,202.31,Fashion,Afternoon,Mobile Wallet,Very Dissatisfied,Yes,Fashion,47481,172,Urban,3
+CUST1694,38,Male,29206,Freelancer,3,236.01,Beauty,Evening,Credit Card,Satisfied,No,Mixed,92665,138,Urban,4
+CUST1695,61,Female,182486,Freelancer,15,87.94,Electronics,Morning,Credit Card,Dissatisfied,No,Mixed,15262,87,Rural,3
+CUST1696,50,Female,155497,Doctor,9,160.34,Fashion,Morning,Mobile Wallet,Satisfied,Yes,Groceries,63388,95,Suburban,6
+CUST1697,44,Male,149035,Student,1,380.46,Electronics,Afternoon,Credit Card,Satisfied,Yes,Mixed,5713,56,Rural,7
+CUST1698,32,Female,116423,Teacher,6,280.87,Fashion,Morning,Debit Card,Very Satisfied,Yes,Electronics,48356,126,Rural,0
+CUST1699,61,Female,141203,Teacher,10,349.39,Groceries,Morning,Cash,Very Dissatisfied,No,Mixed,93784,97,Urban,2
+CUST1700,56,Male,62755,Teacher,2,35.47,Fashion,Evening,Cash,Dissatisfied,Yes,Fashion,96743,156,Suburban,4
+CUST1701,29,Male,147922,Teacher,1,42.04,Fashion,Morning,Mobile Wallet,Dissatisfied,No,Electronics,96483,58,Urban,6
+CUST1702,51,Female,74094,Doctor,1,417.02,Technology,Afternoon,Credit Card,Satisfied,No,Groceries,43776,80,Rural,5
+CUST1703,19,Female,38494,Doctor,8,133.36,Groceries,Afternoon,Debit Card,Neutral,Yes,Mixed,71085,132,Urban,4
+CUST1704,40,Female,80269,Manager,6,370.75,Groceries,Morning,Debit Card,Dissatisfied,Yes,Groceries,44648,56,Rural,5
+CUST1705,60,Male,167778,Engineer,3,83.69,Groceries,Evening,Cash,Very Dissatisfied,Yes,Groceries,95529,166,Urban,6
+CUST1706,46,Male,66599,Freelancer,6,381.48,Beauty,Morning,Credit Card,Neutral,Yes,Groceries,91029,108,Rural,4
+CUST1707,19,Female,177450,Teacher,8,251.84,Groceries,Afternoon,Debit Card,Very Dissatisfied,Yes,Groceries,21746,135,Suburban,3
+CUST1708,26,Male,60707,Manager,14,176.91,Technology,Afternoon,Cash,Dissatisfied,Yes,Mixed,2406,125,Rural,5
+CUST1709,56,Female,162282,Student,3,198.92,Beauty,Afternoon,Credit Card,Dissatisfied,No,Electronics,93844,120,Rural,6
+CUST1710,24,Male,179080,Student,5,304.41,Groceries,Evening,Cash,Very Satisfied,Yes,Mixed,38749,63,Urban,3
+CUST1711,34,Male,27995,Teacher,14,384.2,Beauty,Afternoon,Mobile Wallet,Neutral,Yes,Fashion,14762,102,Suburban,1
+CUST1712,38,Male,69823,Manager,13,169.98,Technology,Morning,Debit Card,Very Dissatisfied,No,Electronics,88605,110,Rural,4
+CUST1713,51,Female,82311,Teacher,14,60.47,Technology,Morning,Mobile Wallet,Satisfied,Yes,Electronics,76111,66,Suburban,4
+CUST1714,33,Male,122433,Engineer,11,23.81,Groceries,Morning,Cash,Very Dissatisfied,Yes,Groceries,55665,82,Suburban,0
+CUST1715,39,Female,99215,Freelancer,13,93.01,Groceries,Afternoon,Cash,Satisfied,Yes,Fashion,76245,48,Urban,2
+CUST1716,24,Female,37590,Student,15,136.07,Fashion,Evening,Credit Card,Dissatisfied,Yes,Mixed,50283,163,Suburban,1
+CUST1717,60,Male,156028,Student,6,279.78,Fashion,Afternoon,Debit Card,Very Satisfied,No,Groceries,60667,97,Urban,6
+CUST1718,44,Male,113386,Manager,3,277.57,Fashion,Evening,Debit Card,Very Satisfied,No,Electronics,75338,177,Urban,2
+CUST1719,53,Female,119319,Manager,2,359.13,Groceries,Afternoon,Debit Card,Very Dissatisfied,No,Groceries,28375,172,Rural,0
+CUST1720,22,Male,168763,Freelancer,8,469.33,Groceries,Afternoon,Credit Card,Very Satisfied,Yes,Electronics,32502,56,Urban,3
+CUST1721,27,Male,180076,Freelancer,3,397.71,Beauty,Evening,Credit Card,Neutral,No,Groceries,86624,171,Suburban,6
+CUST1722,58,Male,40278,Teacher,10,300.35,Groceries,Evening,Cash,Very Satisfied,Yes,Fashion,31934,161,Suburban,1
+CUST1723,29,Female,37439,Teacher,12,36.53,Electronics,Morning,Mobile Wallet,Neutral,Yes,Mixed,67593,147,Suburban,4
+CUST1724,46,Female,132966,Freelancer,13,269.05,Fashion,Morning,Cash,Very Satisfied,Yes,Groceries,62040,88,Urban,0
+CUST1725,65,Female,48066,Manager,4,88.85,Groceries,Evening,Mobile Wallet,Very Dissatisfied,Yes,Fashion,69848,157,Suburban,4
+CUST1726,58,Female,107473,Student,9,430.78,Fashion,Morning,Cash,Very Satisfied,Yes,Groceries,79959,89,Rural,2
+CUST1727,53,Male,113477,Engineer,8,88.01,Groceries,Morning,Credit Card,Very Satisfied,Yes,Groceries,92236,128,Urban,2
+CUST1728,37,Female,42855,Freelancer,6,50.97,Technology,Afternoon,Debit Card,Satisfied,Yes,Groceries,78709,88,Urban,4
+CUST1729,39,Male,108243,Freelancer,3,486.21,Technology,Morning,Mobile Wallet,Dissatisfied,No,Fashion,79758,67,Suburban,2
+CUST1730,50,Male,143253,Freelancer,9,363.91,Groceries,Afternoon,Mobile Wallet,Dissatisfied,No,Mixed,37427,104,Urban,7
+CUST1731,31,Female,104557,Engineer,14,27.7,Groceries,Evening,Credit Card,Neutral,No,Mixed,2969,102,Rural,5
+CUST1732,46,Female,171177,Engineer,9,350.36,Technology,Afternoon,Mobile Wallet,Satisfied,No,Fashion,42729,159,Rural,3
+CUST1733,50,Female,108730,Teacher,10,274.63,Electronics,Afternoon,Credit Card,Very Satisfied,Yes,Mixed,18879,83,Suburban,5
+CUST1734,29,Female,135414,Freelancer,6,239.53,Electronics,Morning,Credit Card,Neutral,No,Electronics,61741,90,Urban,0
+CUST1735,64,Male,160474,Student,1,231.91,Groceries,Afternoon,Cash,Very Satisfied,No,Mixed,58007,73,Suburban,6
+CUST1736,53,Male,83223,Doctor,9,468.47,Technology,Morning,Credit Card,Very Satisfied,No,Electronics,11583,152,Suburban,5
+CUST1737,46,Male,90180,Student,4,389.65,Groceries,Afternoon,Cash,Satisfied,Yes,Mixed,22841,112,Suburban,5
+CUST1738,48,Male,96074,Manager,7,24.77,Groceries,Afternoon,Cash,Dissatisfied,Yes,Electronics,78172,180,Suburban,2
+CUST1739,48,Female,181138,Freelancer,13,281.28,Beauty,Evening,Cash,Dissatisfied,No,Electronics,99350,111,Rural,6
+CUST1740,43,Female,98377,Teacher,10,432.64,Groceries,Morning,Cash,Satisfied,No,Fashion,71534,104,Rural,2
+CUST1741,60,Female,189944,Doctor,5,381.38,Groceries,Morning,Mobile Wallet,Very Satisfied,Yes,Electronics,39639,104,Urban,3
+CUST1742,62,Male,31807,Doctor,15,230.11,Beauty,Morning,Debit Card,Very Dissatisfied,No,Groceries,86548,103,Urban,4
+CUST1743,36,Female,63863,Teacher,2,318.12,Electronics,Afternoon,Cash,Neutral,No,Electronics,81931,74,Urban,4
+CUST1744,35,Female,188066,Freelancer,3,483.18,Electronics,Evening,Mobile Wallet,Satisfied,Yes,Electronics,20029,150,Suburban,3
+CUST1745,49,Male,55979,Engineer,10,50.84,Beauty,Afternoon,Cash,Satisfied,No,Electronics,34440,136,Urban,1
+CUST1746,18,Female,124985,Doctor,12,309.59,Technology,Afternoon,Cash,Very Dissatisfied,Yes,Fashion,58795,111,Rural,0
+CUST1747,34,Female,89870,Doctor,1,207.46,Beauty,Morning,Cash,Neutral,Yes,Mixed,51414,119,Rural,5
+CUST1748,18,Female,118429,Student,1,287.0,Groceries,Evening,Cash,Satisfied,Yes,Fashion,7386,87,Suburban,7
+CUST1749,24,Female,123532,Student,15,471.64,Groceries,Evening,Debit Card,Dissatisfied,Yes,Fashion,46482,75,Suburban,0
+CUST1750,25,Female,164449,Teacher,11,366.55,Groceries,Afternoon,Credit Card,Neutral,Yes,Mixed,62145,70,Rural,6
+CUST1751,52,Male,33526,Teacher,1,282.79,Technology,Evening,Credit Card,Neutral,Yes,Mixed,10312,73,Suburban,1
+CUST1752,55,Female,75660,Engineer,10,424.61,Technology,Evening,Mobile Wallet,Very Satisfied,No,Fashion,86684,50,Suburban,4
+CUST1753,53,Female,46998,Student,4,376.92,Electronics,Morning,Debit Card,Neutral,Yes,Mixed,4956,148,Rural,1
+CUST1754,70,Male,65489,Engineer,9,439.32,Technology,Evening,Debit Card,Very Dissatisfied,Yes,Mixed,87952,172,Rural,4
+CUST1755,44,Female,76887,Student,12,158.46,Electronics,Morning,Mobile Wallet,Very Dissatisfied,Yes,Electronics,70840,74,Suburban,4
+CUST1756,51,Female,149529,Engineer,10,363.92,Groceries,Afternoon,Cash,Very Dissatisfied,Yes,Electronics,57141,33,Urban,6
+CUST1757,45,Male,172916,Teacher,10,430.1,Fashion,Morning,Mobile Wallet,Very Satisfied,Yes,Electronics,50001,121,Urban,3
+CUST1758,46,Male,140479,Doctor,4,399.26,Groceries,Morning,Cash,Satisfied,No,Fashion,73239,155,Suburban,2
+CUST1759,69,Male,188071,Student,7,480.85,Technology,Afternoon,Mobile Wallet,Dissatisfied,No,Mixed,93080,102,Suburban,6
+CUST1760,24,Male,54893,Engineer,2,78.22,Electronics,Evening,Cash,Very Dissatisfied,No,Fashion,12461,86,Rural,1
+CUST1761,28,Female,117638,Doctor,4,329.1,Beauty,Afternoon,Credit Card,Dissatisfied,No,Fashion,57411,157,Urban,0
+CUST1762,20,Female,75010,Teacher,1,72.7,Fashion,Morning,Cash,Dissatisfied,Yes,Fashion,28368,149,Rural,5
+CUST1763,45,Female,70687,Doctor,2,155.24,Fashion,Morning,Cash,Very Dissatisfied,No,Groceries,29338,114,Suburban,5
+CUST1764,23,Male,169637,Freelancer,3,120.14,Groceries,Afternoon,Mobile Wallet,Very Dissatisfied,No,Groceries,46385,97,Suburban,3
+CUST1765,68,Female,51046,Engineer,3,482.42,Groceries,Morning,Cash,Very Satisfied,Yes,Fashion,1843,84,Urban,1
+CUST1766,54,Female,145078,Manager,7,357.65,Beauty,Morning,Cash,Neutral,No,Electronics,76141,54,Urban,6
+CUST1767,67,Female,30132,Engineer,15,113.52,Technology,Evening,Cash,Very Satisfied,Yes,Mixed,52530,120,Rural,1
+CUST1768,40,Female,43443,Doctor,5,108.23,Fashion,Evening,Cash,Neutral,No,Groceries,13812,31,Rural,1
+CUST1769,64,Male,127426,Doctor,8,153.82,Electronics,Evening,Mobile Wallet,Neutral,Yes,Fashion,28493,35,Urban,7
+CUST1770,23,Female,141987,Freelancer,13,201.23,Beauty,Evening,Mobile Wallet,Dissatisfied,No,Mixed,28215,165,Suburban,7
+CUST1771,29,Female,49754,Engineer,5,353.23,Fashion,Evening,Debit Card,Neutral,No,Fashion,49293,107,Urban,1
+CUST1772,19,Female,46685,Engineer,14,386.64,Technology,Morning,Credit Card,Neutral,Yes,Fashion,16351,177,Suburban,1
+CUST1773,55,Female,81123,Engineer,3,51.75,Groceries,Evening,Debit Card,Very Dissatisfied,Yes,Groceries,90533,113,Urban,4
+CUST1774,43,Female,175804,Doctor,14,365.02,Electronics,Morning,Debit Card,Satisfied,Yes,Groceries,40147,158,Suburban,3
+CUST1775,66,Female,129065,Freelancer,10,253.18,Groceries,Morning,Debit Card,Very Satisfied,No,Electronics,20183,162,Rural,7
+CUST1776,25,Male,32993,Teacher,3,344.73,Electronics,Afternoon,Mobile Wallet,Satisfied,No,Groceries,38666,169,Urban,1
+CUST1777,43,Female,28329,Engineer,7,259.4,Electronics,Afternoon,Credit Card,Satisfied,No,Mixed,80141,131,Urban,4
+CUST1778,22,Female,74966,Teacher,6,255.81,Beauty,Morning,Cash,Dissatisfied,No,Groceries,9556,125,Rural,5
+CUST1779,64,Female,172614,Teacher,4,80.7,Beauty,Evening,Debit Card,Neutral,No,Fashion,40625,173,Suburban,3
+CUST1780,38,Female,75235,Teacher,8,255.96,Beauty,Morning,Credit Card,Dissatisfied,No,Fashion,22674,113,Rural,5
+CUST1781,52,Male,77843,Engineer,14,200.78,Electronics,Morning,Cash,Very Dissatisfied,Yes,Groceries,40912,178,Rural,5
+CUST1782,27,Male,154339,Manager,2,362.9,Fashion,Evening,Cash,Neutral,No,Mixed,11213,160,Urban,7
+CUST1783,31,Male,132149,Manager,15,256.04,Beauty,Afternoon,Debit Card,Dissatisfied,Yes,Electronics,90925,38,Urban,2
+CUST1784,63,Female,158960,Engineer,4,37.21,Groceries,Afternoon,Credit Card,Satisfied,No,Electronics,51141,69,Rural,6
+CUST1785,54,Male,150212,Teacher,15,85.15,Beauty,Evening,Credit Card,Very Satisfied,Yes,Groceries,73339,142,Suburban,6
+CUST1786,29,Female,199201,Teacher,15,477.39,Technology,Morning,Cash,Very Satisfied,Yes,Electronics,6242,42,Rural,3
+CUST1787,49,Female,158225,Student,13,449.94,Technology,Morning,Debit Card,Very Dissatisfied,Yes,Fashion,9245,122,Rural,7
+CUST1788,57,Male,41934,Doctor,11,372.84,Fashion,Evening,Cash,Very Dissatisfied,No,Fashion,33807,33,Urban,1
+CUST1789,33,Female,55702,Freelancer,10,211.67,Technology,Afternoon,Credit Card,Very Dissatisfied,Yes,Electronics,10944,142,Rural,1
+CUST1790,41,Female,64191,Teacher,5,232.37,Technology,Afternoon,Cash,Satisfied,No,Groceries,5452,148,Rural,5
+CUST1791,68,Male,125893,Freelancer,15,348.8,Groceries,Evening,Debit Card,Neutral,Yes,Electronics,34148,161,Urban,0
+CUST1792,18,Female,197842,Doctor,4,471.09,Fashion,Morning,Credit Card,Dissatisfied,Yes,Groceries,13285,148,Rural,3
+CUST1793,38,Male,133410,Student,8,467.42,Groceries,Afternoon,Mobile Wallet,Neutral,No,Groceries,21098,77,Rural,7
+CUST1794,24,Female,121242,Student,11,487.28,Beauty,Morning,Debit Card,Satisfied,No,Electronics,39027,122,Suburban,0
+CUST1795,18,Male,133924,Student,15,369.92,Technology,Morning,Cash,Very Dissatisfied,No,Groceries,12035,102,Urban,7
+CUST1796,44,Male,45574,Doctor,4,122.47,Beauty,Morning,Mobile Wallet,Satisfied,Yes,Electronics,93674,48,Rural,4
+CUST1797,52,Female,163280,Student,14,75.58,Electronics,Afternoon,Cash,Neutral,No,Groceries,43438,153,Suburban,3
+CUST1798,59,Female,131419,Teacher,8,108.67,Groceries,Evening,Credit Card,Neutral,Yes,Mixed,82031,154,Urban,2
+CUST1799,67,Female,174319,Engineer,10,204.59,Groceries,Afternoon,Mobile Wallet,Satisfied,Yes,Electronics,4555,84,Suburban,3
+CUST1800,68,Male,41594,Freelancer,9,21.54,Fashion,Afternoon,Debit Card,Very Dissatisfied,Yes,Electronics,58151,47,Suburban,4
+CUST1801,39,Female,62859,Teacher,8,305.73,Fashion,Afternoon,Cash,Neutral,Yes,Mixed,45200,62,Urban,5
+CUST1802,43,Male,69079,Manager,1,211.87,Beauty,Afternoon,Cash,Satisfied,Yes,Mixed,21312,159,Rural,5
+CUST1803,19,Male,99272,Student,4,85.84,Electronics,Afternoon,Credit Card,Very Satisfied,No,Electronics,52142,96,Rural,0
+CUST1804,61,Male,61654,Freelancer,9,153.34,Electronics,Afternoon,Credit Card,Satisfied,Yes,Electronics,79140,30,Suburban,4
+CUST1805,36,Female,80820,Engineer,3,437.16,Technology,Afternoon,Cash,Satisfied,No,Groceries,56183,61,Urban,5
+CUST1806,27,Male,92984,Manager,3,81.35,Electronics,Afternoon,Cash,Very Satisfied,Yes,Groceries,96053,87,Urban,2
+CUST1807,69,Female,169306,Freelancer,3,44.53,Beauty,Evening,Mobile Wallet,Dissatisfied,No,Mixed,5818,84,Suburban,3
+CUST1808,55,Male,169587,Engineer,12,184.93,Fashion,Evening,Debit Card,Satisfied,No,Mixed,87358,109,Urban,6
+CUST1809,47,Male,75076,Teacher,9,471.59,Technology,Morning,Cash,Very Dissatisfied,No,Fashion,33619,110,Suburban,5
+CUST1810,49,Male,82254,Student,8,178.98,Electronics,Evening,Mobile Wallet,Dissatisfied,No,Electronics,2871,69,Urban,5
+CUST1811,63,Male,119970,Student,2,345.08,Fashion,Evening,Credit Card,Satisfied,No,Groceries,89206,131,Suburban,2
+CUST1812,29,Female,64202,Student,1,202.44,Groceries,Morning,Mobile Wallet,Very Dissatisfied,Yes,Electronics,52095,81,Suburban,4
+CUST1813,25,Female,90911,Manager,4,177.43,Fashion,Morning,Credit Card,Very Satisfied,No,Electronics,91786,170,Suburban,2
+CUST1814,59,Female,36882,Engineer,13,244.16,Fashion,Evening,Cash,Dissatisfied,Yes,Fashion,96354,171,Urban,4
+CUST1815,68,Female,170048,Doctor,7,189.28,Beauty,Afternoon,Debit Card,Dissatisfied,Yes,Mixed,41878,161,Urban,3
+CUST1816,49,Female,112503,Freelancer,10,80.02,Fashion,Afternoon,Mobile Wallet,Very Dissatisfied,Yes,Groceries,42166,138,Urban,0
+CUST1817,20,Male,53620,Student,14,329.41,Technology,Evening,Debit Card,Dissatisfied,Yes,Electronics,91148,118,Suburban,4
+CUST1818,49,Male,174346,Doctor,1,371.39,Fashion,Evening,Mobile Wallet,Very Satisfied,No,Fashion,18066,70,Rural,3
+CUST1819,36,Female,45381,Doctor,12,225.05,Electronics,Afternoon,Debit Card,Very Satisfied,Yes,Fashion,58275,46,Rural,4
+CUST1820,68,Female,64368,Freelancer,13,444.46,Beauty,Morning,Mobile Wallet,Satisfied,No,Groceries,22038,114,Urban,5
+CUST1821,21,Female,136183,Doctor,5,92.3,Technology,Morning,Debit Card,Very Satisfied,No,Mixed,66887,67,Rural,0
+CUST1822,53,Male,113779,Student,11,99.39,Fashion,Evening,Credit Card,Neutral,Yes,Electronics,40688,134,Rural,0
+CUST1823,51,Female,119978,Freelancer,9,32.01,Beauty,Afternoon,Cash,Very Dissatisfied,Yes,Mixed,1988,107,Rural,7
+CUST1824,57,Male,24472,Engineer,9,294.57,Groceries,Morning,Cash,Very Satisfied,No,Groceries,65696,33,Urban,4
+CUST1825,33,Male,67119,Engineer,14,181.34,Groceries,Evening,Cash,Very Dissatisfied,No,Groceries,97976,76,Suburban,4
+CUST1826,44,Female,169161,Doctor,15,260.98,Groceries,Morning,Mobile Wallet,Satisfied,Yes,Mixed,56512,85,Urban,6
+CUST1827,52,Female,187516,Teacher,4,406.94,Beauty,Morning,Credit Card,Neutral,Yes,Fashion,65116,34,Rural,6
+CUST1828,25,Female,132065,Freelancer,9,147.96,Beauty,Morning,Mobile Wallet,Very Satisfied,No,Groceries,78884,127,Rural,2
+CUST1829,66,Male,192043,Freelancer,5,496.2,Beauty,Afternoon,Credit Card,Neutral,Yes,Mixed,81598,75,Rural,6
+CUST1830,51,Male,93921,Doctor,7,461.29,Beauty,Evening,Credit Card,Satisfied,Yes,Groceries,16627,79,Suburban,5
+CUST1831,40,Female,186923,Teacher,4,222.23,Fashion,Evening,Mobile Wallet,Dissatisfied,Yes,Groceries,72241,93,Rural,6
+CUST1832,30,Male,45415,Manager,12,211.05,Beauty,Afternoon,Credit Card,Very Dissatisfied,No,Mixed,64010,152,Urban,4
+CUST1833,51,Male,178509,Freelancer,12,248.57,Electronics,Morning,Cash,Very Satisfied,No,Fashion,87291,106,Suburban,6
+CUST1834,64,Female,84485,Manager,8,195.26,Beauty,Evening,Cash,Neutral,No,Groceries,6783,72,Urban,5
+CUST1835,27,Male,96284,Student,7,430.69,Electronics,Morning,Mobile Wallet,Very Dissatisfied,No,Groceries,62448,62,Rural,0
+CUST1836,70,Female,167833,Manager,5,258.44,Electronics,Evening,Cash,Very Satisfied,Yes,Groceries,88770,126,Suburban,6
+CUST1837,22,Male,174728,Teacher,7,159.57,Beauty,Afternoon,Credit Card,Neutral,No,Groceries,8832,163,Rural,3
+CUST1838,48,Male,172529,Manager,1,484.59,Beauty,Evening,Cash,Neutral,Yes,Fashion,5536,172,Rural,3
+CUST1839,70,Male,153080,Engineer,15,439.96,Fashion,Morning,Cash,Very Satisfied,Yes,Electronics,50199,154,Suburban,6
+CUST1840,31,Female,90587,Manager,2,272.0,Electronics,Evening,Credit Card,Very Satisfied,Yes,Electronics,1295,55,Urban,5
+CUST1841,21,Male,132207,Doctor,9,186.58,Electronics,Evening,Cash,Neutral,No,Electronics,31965,43,Suburban,7
+CUST1842,65,Female,114041,Freelancer,1,32.0,Fashion,Afternoon,Credit Card,Very Satisfied,Yes,Groceries,44309,41,Rural,0
+CUST1843,69,Female,163767,Doctor,7,119.97,Groceries,Evening,Cash,Satisfied,Yes,Mixed,99235,96,Rural,6
+CUST1844,56,Male,75687,Teacher,7,145.6,Fashion,Afternoon,Debit Card,Neutral,No,Mixed,60235,86,Suburban,4
+CUST1845,31,Female,114940,Doctor,2,378.94,Electronics,Evening,Credit Card,Satisfied,No,Electronics,49750,173,Urban,0
+CUST1846,56,Female,135877,Student,12,413.74,Electronics,Morning,Credit Card,Neutral,No,Groceries,61970,82,Suburban,0
+CUST1847,62,Male,43463,Engineer,14,251.6,Groceries,Morning,Debit Card,Dissatisfied,Yes,Groceries,37584,75,Rural,1
+CUST1848,42,Female,166545,Teacher,5,447.95,Beauty,Afternoon,Cash,Very Satisfied,No,Groceries,20097,33,Suburban,3
+CUST1849,52,Female,53142,Student,9,175.88,Groceries,Morning,Credit Card,Very Satisfied,No,Fashion,59136,126,Rural,4
+CUST1850,41,Male,89295,Engineer,5,247.59,Beauty,Evening,Debit Card,Neutral,Yes,Groceries,91080,100,Urban,2
+CUST1851,67,Female,153197,Engineer,15,255.92,Fashion,Morning,Credit Card,Very Dissatisfied,No,Electronics,48312,179,Urban,7
+CUST1852,60,Male,90727,Doctor,10,159.56,Beauty,Morning,Cash,Satisfied,Yes,Fashion,32231,56,Suburban,5
+CUST1853,30,Male,157899,Doctor,12,233.69,Fashion,Morning,Debit Card,Neutral,No,Groceries,4861,142,Rural,7
+CUST1854,48,Male,130917,Manager,13,390.16,Beauty,Evening,Debit Card,Neutral,No,Mixed,29199,180,Urban,7
+CUST1855,52,Male,171264,Student,10,136.64,Electronics,Afternoon,Debit Card,Very Dissatisfied,Yes,Electronics,43976,59,Rural,3
+CUST1856,53,Male,119436,Manager,11,392.07,Fashion,Morning,Debit Card,Neutral,No,Groceries,68308,172,Urban,2
+CUST1857,24,Female,62202,Engineer,1,184.31,Groceries,Afternoon,Mobile Wallet,Very Satisfied,Yes,Electronics,64185,96,Suburban,4
+CUST1858,49,Female,61595,Freelancer,9,399.54,Technology,Afternoon,Mobile Wallet,Satisfied,Yes,Fashion,23623,175,Rural,5
+CUST1859,44,Male,55165,Teacher,4,460.45,Technology,Afternoon,Debit Card,Very Dissatisfied,Yes,Mixed,69328,178,Urban,4
+CUST1860,30,Male,53368,Freelancer,13,464.8,Beauty,Evening,Mobile Wallet,Very Dissatisfied,Yes,Mixed,98758,121,Rural,4
+CUST1861,18,Male,41193,Student,5,195.29,Electronics,Morning,Mobile Wallet,Very Satisfied,Yes,Mixed,74434,53,Rural,4
+CUST1862,18,Male,129749,Doctor,3,474.22,Technology,Afternoon,Mobile Wallet,Neutral,Yes,Electronics,37152,98,Urban,0
+CUST1863,22,Male,163800,Manager,12,388.57,Technology,Evening,Debit Card,Dissatisfied,Yes,Mixed,99421,180,Rural,6
+CUST1864,22,Male,133231,Manager,4,72.87,Beauty,Evening,Debit Card,Very Satisfied,Yes,Groceries,81235,61,Rural,2
+CUST1865,46,Female,20867,Freelancer,1,239.95,Technology,Evening,Cash,Dissatisfied,Yes,Groceries,33300,147,Urban,1
+CUST1866,37,Male,195745,Manager,9,462.89,Technology,Afternoon,Debit Card,Satisfied,Yes,Groceries,84454,39,Rural,6
+CUST1867,20,Male,30043,Manager,6,347.23,Beauty,Morning,Debit Card,Very Dissatisfied,Yes,Fashion,94347,87,Urban,4
+CUST1868,24,Male,74465,Student,12,137.61,Beauty,Afternoon,Credit Card,Satisfied,Yes,Mixed,60090,98,Rural,4
+CUST1869,47,Female,150731,Teacher,11,292.77,Fashion,Evening,Mobile Wallet,Very Satisfied,No,Mixed,61124,64,Urban,6
+CUST1870,34,Male,97398,Doctor,8,494.51,Fashion,Evening,Debit Card,Very Dissatisfied,No,Electronics,51330,96,Suburban,0
+CUST1871,46,Female,119503,Doctor,3,113.21,Fashion,Evening,Mobile Wallet,Very Satisfied,Yes,Fashion,53829,42,Rural,0
+CUST1872,44,Male,59351,Doctor,8,246.26,Technology,Morning,Credit Card,Very Dissatisfied,No,Electronics,39205,131,Suburban,1
+CUST1873,58,Male,192067,Doctor,13,397.36,Beauty,Afternoon,Credit Card,Very Dissatisfied,No,Fashion,73232,175,Suburban,6
+CUST1874,20,Female,129315,Doctor,3,363.53,Technology,Evening,Credit Card,Dissatisfied,Yes,Electronics,9379,81,Urban,7
+CUST1875,22,Male,191838,Teacher,9,210.41,Electronics,Morning,Debit Card,Neutral,No,Electronics,30285,160,Urban,3
+CUST1876,28,Male,26948,Doctor,10,316.21,Groceries,Afternoon,Credit Card,Very Dissatisfied,No,Groceries,41550,106,Rural,1
+CUST1877,61,Male,27600,Engineer,12,422.32,Groceries,Morning,Credit Card,Satisfied,Yes,Fashion,94706,60,Suburban,4
+CUST1878,46,Male,28766,Student,15,444.82,Groceries,Morning,Cash,Neutral,No,Groceries,17579,64,Suburban,1
+CUST1879,36,Male,44238,Student,10,208.02,Beauty,Afternoon,Credit Card,Satisfied,No,Fashion,79130,87,Urban,4
+CUST1880,34,Male,162931,Manager,9,280.56,Technology,Afternoon,Mobile Wallet,Very Dissatisfied,No,Groceries,54885,73,Suburban,6
+CUST1881,48,Male,199740,Engineer,2,345.79,Electronics,Evening,Credit Card,Dissatisfied,Yes,Groceries,38227,154,Suburban,3
+CUST1882,68,Male,168302,Doctor,7,65.01,Electronics,Afternoon,Cash,Satisfied,Yes,Mixed,38279,105,Rural,3
+CUST1883,28,Female,45433,Teacher,6,483.66,Beauty,Morning,Debit Card,Dissatisfied,No,Groceries,22763,157,Urban,1
+CUST1884,53,Female,115261,Freelancer,11,481.32,Technology,Afternoon,Mobile Wallet,Dissatisfied,Yes,Mixed,93152,53,Urban,2
+CUST1885,68,Female,126821,Student,15,433.98,Technology,Afternoon,Mobile Wallet,Neutral,Yes,Groceries,41652,63,Suburban,0
+CUST1886,49,Female,89486,Engineer,14,268.35,Fashion,Morning,Mobile Wallet,Very Dissatisfied,No,Mixed,73971,113,Suburban,2
+CUST1887,48,Female,109484,Freelancer,3,48.54,Fashion,Morning,Credit Card,Neutral,Yes,Fashion,69948,76,Suburban,2
+CUST1888,54,Male,164900,Manager,10,467.03,Technology,Afternoon,Debit Card,Very Satisfied,No,Electronics,23733,177,Rural,3
+CUST1889,32,Male,155481,Teacher,5,409.12,Fashion,Evening,Mobile Wallet,Very Dissatisfied,Yes,Mixed,81453,114,Urban,6
+CUST1890,41,Male,155310,Engineer,2,67.32,Technology,Evening,Cash,Very Dissatisfied,No,Electronics,26963,31,Rural,7
+CUST1891,47,Male,177636,Manager,5,200.86,Groceries,Evening,Credit Card,Very Dissatisfied,No,Electronics,48624,174,Urban,3
+CUST1892,70,Female,37677,Doctor,4,301.7,Groceries,Evening,Credit Card,Very Satisfied,Yes,Fashion,18580,54,Urban,1
+CUST1893,45,Male,72341,Freelancer,7,242.01,Technology,Afternoon,Credit Card,Very Dissatisfied,Yes,Groceries,98736,157,Suburban,4
+CUST1894,57,Male,134767,Manager,4,35.84,Fashion,Afternoon,Cash,Neutral,No,Groceries,34185,58,Suburban,7
+CUST1895,41,Male,49982,Engineer,4,339.51,Beauty,Evening,Debit Card,Satisfied,No,Electronics,10494,129,Urban,1
+CUST1896,32,Female,83910,Doctor,5,320.51,Groceries,Morning,Mobile Wallet,Satisfied,No,Fashion,66383,178,Suburban,4
+CUST1897,33,Female,171284,Engineer,3,335.7,Beauty,Afternoon,Credit Card,Satisfied,Yes,Electronics,54657,47,Urban,6
+CUST1898,31,Female,188871,Freelancer,10,279.44,Electronics,Evening,Mobile Wallet,Very Satisfied,Yes,Fashion,39505,56,Rural,3
+CUST1899,68,Male,107821,Engineer,7,416.49,Electronics,Evening,Mobile Wallet,Very Satisfied,Yes,Mixed,5104,137,Rural,5
+CUST1900,52,Female,70759,Student,12,432.45,Beauty,Evening,Cash,Satisfied,No,Electronics,49331,137,Rural,5
+CUST1901,23,Female,38949,Manager,15,87.49,Groceries,Evening,Cash,Neutral,No,Groceries,97393,160,Suburban,4
+CUST1902,37,Male,131526,Freelancer,10,44.27,Technology,Evening,Cash,Satisfied,Yes,Mixed,52291,166,Urban,0
+CUST1903,34,Female,77166,Freelancer,14,108.1,Electronics,Evening,Mobile Wallet,Very Dissatisfied,Yes,Groceries,41839,142,Urban,5
+CUST1904,39,Female,68569,Freelancer,13,396.55,Fashion,Morning,Cash,Very Dissatisfied,No,Fashion,11826,154,Urban,5
+CUST1905,65,Female,193370,Engineer,6,181.58,Electronics,Evening,Cash,Satisfied,Yes,Mixed,3912,180,Urban,3
+CUST1906,39,Female,189356,Manager,7,164.58,Groceries,Afternoon,Cash,Dissatisfied,No,Fashion,35837,145,Suburban,3
+CUST1907,57,Female,69624,Freelancer,13,231.91,Beauty,Afternoon,Mobile Wallet,Satisfied,Yes,Groceries,25713,60,Urban,5
+CUST1908,35,Female,159038,Manager,11,82.33,Beauty,Afternoon,Debit Card,Satisfied,No,Electronics,17370,41,Suburban,7
+CUST1909,21,Male,124642,Doctor,10,105.63,Electronics,Morning,Cash,Satisfied,Yes,Electronics,48752,162,Suburban,0
+CUST1910,27,Male,50384,Student,15,37.58,Beauty,Morning,Cash,Neutral,No,Fashion,59895,31,Suburban,4
+CUST1911,53,Female,194984,Freelancer,13,220.71,Fashion,Afternoon,Debit Card,Very Satisfied,Yes,Fashion,57072,127,Urban,3
+CUST1912,35,Female,80791,Freelancer,6,226.07,Groceries,Afternoon,Credit Card,Very Satisfied,No,Fashion,55125,148,Suburban,5
+CUST1913,51,Male,97711,Manager,1,137.48,Fashion,Evening,Credit Card,Very Dissatisfied,No,Mixed,67501,146,Rural,2
+CUST1914,24,Male,43211,Manager,8,297.66,Fashion,Afternoon,Credit Card,Dissatisfied,Yes,Mixed,40324,71,Rural,1
+CUST1915,39,Male,125739,Student,4,149.15,Beauty,Morning,Credit Card,Satisfied,Yes,Fashion,37008,96,Urban,0
+CUST1916,50,Female,165933,Teacher,6,374.32,Beauty,Afternoon,Cash,Dissatisfied,Yes,Mixed,83952,59,Rural,6
+CUST1917,35,Male,76169,Manager,9,385.9,Technology,Evening,Cash,Satisfied,Yes,Electronics,85536,86,Rural,4
+CUST1918,19,Male,122006,Student,11,171.2,Groceries,Afternoon,Mobile Wallet,Very Dissatisfied,Yes,Fashion,56425,171,Suburban,0
+CUST1919,50,Female,147907,Teacher,2,283.34,Technology,Evening,Credit Card,Dissatisfied,Yes,Mixed,60539,152,Rural,6
+CUST1920,57,Female,48258,Engineer,5,260.46,Beauty,Morning,Credit Card,Satisfied,No,Fashion,36224,123,Suburban,1
+CUST1921,31,Female,156364,Freelancer,15,282.82,Beauty,Morning,Mobile Wallet,Very Satisfied,No,Fashion,52460,120,Urban,6
+CUST1922,62,Female,59941,Teacher,14,409.25,Beauty,Evening,Debit Card,Satisfied,Yes,Mixed,73377,78,Suburban,4
+CUST1923,53,Male,44475,Freelancer,15,228.63,Fashion,Morning,Cash,Dissatisfied,No,Mixed,82665,138,Suburban,4
+CUST1924,33,Female,38111,Teacher,10,74.31,Groceries,Morning,Cash,Satisfied,Yes,Electronics,30767,178,Suburban,1
+CUST1925,66,Female,64523,Engineer,11,57.77,Groceries,Morning,Credit Card,Very Satisfied,Yes,Mixed,41861,71,Urban,5
+CUST1926,37,Male,197110,Student,3,258.18,Fashion,Evening,Cash,Dissatisfied,No,Electronics,8790,162,Urban,3
+CUST1927,33,Male,97652,Freelancer,8,342.64,Electronics,Morning,Mobile Wallet,Neutral,Yes,Groceries,29746,145,Urban,5
+CUST1928,63,Male,159852,Teacher,8,426.26,Electronics,Afternoon,Debit Card,Very Satisfied,Yes,Groceries,21469,35,Suburban,7
+CUST1929,44,Female,61111,Freelancer,2,438.81,Technology,Afternoon,Debit Card,Satisfied,No,Groceries,23160,72,Suburban,5
+CUST1930,70,Female,98640,Student,2,173.83,Beauty,Afternoon,Cash,Dissatisfied,Yes,Mixed,46743,34,Urban,0
+CUST1931,20,Female,101279,Teacher,9,129.14,Electronics,Evening,Debit Card,Very Dissatisfied,Yes,Fashion,53513,69,Rural,0
+CUST1932,25,Male,63225,Manager,6,279.53,Beauty,Afternoon,Debit Card,Very Dissatisfied,Yes,Groceries,5309,158,Urban,5
+CUST1933,69,Female,199719,Manager,2,301.32,Technology,Afternoon,Mobile Wallet,Dissatisfied,Yes,Mixed,24774,147,Urban,3
+CUST1934,24,Male,118864,Freelancer,14,346.88,Electronics,Afternoon,Credit Card,Very Satisfied,No,Groceries,39282,142,Rural,0
+CUST1935,54,Male,63875,Teacher,2,463.39,Groceries,Evening,Cash,Dissatisfied,Yes,Fashion,56276,175,Urban,4
+CUST1936,44,Female,24899,Manager,14,123.34,Groceries,Morning,Debit Card,Very Dissatisfied,Yes,Electronics,36709,171,Suburban,1
+CUST1937,55,Female,61734,Manager,9,187.84,Electronics,Afternoon,Debit Card,Satisfied,Yes,Mixed,28806,142,Urban,5
+CUST1938,35,Female,165618,Freelancer,15,313.08,Beauty,Evening,Debit Card,Dissatisfied,No,Fashion,44634,122,Suburban,3
+CUST1939,42,Female,104482,Doctor,15,294.0,Beauty,Afternoon,Debit Card,Very Dissatisfied,Yes,Fashion,9703,89,Urban,5
+CUST1940,62,Female,37348,Doctor,8,86.19,Electronics,Evening,Debit Card,Dissatisfied,No,Electronics,74237,52,Urban,4
+CUST1941,29,Female,164091,Doctor,6,494.13,Groceries,Evening,Cash,Dissatisfied,Yes,Fashion,1524,80,Rural,7
+CUST1942,29,Male,163586,Engineer,5,454.61,Beauty,Evening,Mobile Wallet,Very Dissatisfied,Yes,Electronics,58009,41,Urban,6
+CUST1943,57,Female,123960,Teacher,11,356.53,Beauty,Afternoon,Credit Card,Satisfied,No,Electronics,95119,46,Suburban,2
+CUST1944,38,Male,57819,Doctor,7,239.6,Technology,Morning,Debit Card,Very Dissatisfied,No,Fashion,89077,61,Rural,4
+CUST1945,46,Male,67318,Engineer,6,58.81,Technology,Evening,Cash,Dissatisfied,Yes,Mixed,72008,152,Suburban,4
+CUST1946,67,Male,82143,Doctor,5,76.33,Beauty,Evening,Mobile Wallet,Dissatisfied,No,Groceries,43988,68,Rural,5
+CUST1947,52,Male,34452,Student,6,44.77,Beauty,Morning,Mobile Wallet,Dissatisfied,No,Fashion,41100,169,Urban,1
+CUST1948,36,Male,187316,Freelancer,11,420.35,Technology,Evening,Cash,Very Satisfied,No,Fashion,31439,48,Suburban,3
+CUST1949,21,Female,150279,Teacher,1,272.37,Fashion,Morning,Debit Card,Neutral,No,Electronics,30719,180,Suburban,7
+CUST1950,66,Male,161460,Teacher,10,169.12,Electronics,Morning,Cash,Very Dissatisfied,No,Electronics,55341,112,Urban,6
+CUST1951,50,Female,179051,Freelancer,2,292.69,Groceries,Afternoon,Mobile Wallet,Satisfied,No,Fashion,18394,90,Urban,3
+CUST1952,24,Female,175301,Engineer,14,198.62,Technology,Evening,Mobile Wallet,Dissatisfied,Yes,Groceries,66259,123,Suburban,6
+CUST1953,67,Male,156813,Manager,13,30.68,Technology,Afternoon,Credit Card,Very Satisfied,No,Fashion,17978,99,Rural,7
+CUST1954,42,Male,51109,Freelancer,9,346.29,Fashion,Morning,Credit Card,Satisfied,Yes,Electronics,29229,156,Suburban,1
+CUST1955,55,Female,161143,Student,1,73.28,Groceries,Evening,Debit Card,Satisfied,Yes,Mixed,31969,106,Suburban,3
+CUST1956,67,Female,52472,Student,15,287.79,Beauty,Morning,Mobile Wallet,Dissatisfied,Yes,Groceries,4029,176,Rural,1
+CUST1957,69,Female,119448,Teacher,13,176.37,Electronics,Afternoon,Debit Card,Very Dissatisfied,No,Mixed,21944,87,Rural,7
+CUST1958,63,Male,142490,Teacher,6,418.2,Technology,Morning,Debit Card,Neutral,No,Fashion,50683,176,Suburban,0
+CUST1959,58,Female,177632,Doctor,10,155.23,Beauty,Evening,Debit Card,Dissatisfied,No,Mixed,88626,172,Urban,6
+CUST1960,59,Female,140724,Manager,13,481.45,Electronics,Morning,Mobile Wallet,Satisfied,No,Fashion,22674,44,Urban,7
+CUST1961,35,Female,118732,Engineer,2,133.81,Fashion,Afternoon,Mobile Wallet,Neutral,Yes,Mixed,38912,36,Rural,0
+CUST1962,53,Male,83692,Teacher,7,445.32,Fashion,Evening,Debit Card,Neutral,Yes,Electronics,31652,81,Rural,5
+CUST1963,54,Male,131480,Engineer,12,129.01,Fashion,Afternoon,Mobile Wallet,Satisfied,No,Electronics,24875,138,Urban,7
+CUST1964,20,Male,22299,Doctor,14,106.22,Fashion,Afternoon,Cash,Dissatisfied,No,Mixed,51655,70,Urban,1
+CUST1965,66,Male,134841,Engineer,3,384.23,Beauty,Evening,Cash,Satisfied,Yes,Groceries,98880,91,Urban,2
+CUST1966,63,Female,26373,Freelancer,7,159.33,Groceries,Morning,Debit Card,Very Dissatisfied,Yes,Fashion,16012,71,Suburban,1
+CUST1967,24,Female,68326,Manager,6,191.25,Technology,Afternoon,Debit Card,Satisfied,Yes,Electronics,76551,138,Rural,4
+CUST1968,52,Male,190385,Freelancer,2,379.0,Groceries,Afternoon,Cash,Very Dissatisfied,No,Groceries,95059,139,Rural,6
+CUST1969,56,Male,42164,Teacher,4,307.8,Fashion,Afternoon,Debit Card,Dissatisfied,Yes,Fashion,95274,40,Urban,4
+CUST1970,68,Female,44572,Doctor,12,81.98,Groceries,Evening,Mobile Wallet,Very Satisfied,Yes,Electronics,21053,81,Suburban,1
+CUST1971,64,Female,76474,Freelancer,15,413.31,Beauty,Afternoon,Mobile Wallet,Very Dissatisfied,Yes,Fashion,57086,38,Urban,4
+CUST1972,42,Female,107698,Teacher,3,341.27,Beauty,Evening,Mobile Wallet,Very Satisfied,No,Groceries,94726,77,Rural,2
+CUST1973,55,Female,50383,Freelancer,13,28.5,Beauty,Morning,Debit Card,Dissatisfied,Yes,Fashion,53451,177,Suburban,4
+CUST1974,41,Male,174687,Teacher,9,45.36,Groceries,Evening,Cash,Neutral,No,Fashion,76501,152,Suburban,6
+CUST1975,36,Female,83561,Student,8,392.21,Technology,Evening,Cash,Very Dissatisfied,No,Electronics,69808,142,Urban,4
+CUST1976,26,Male,160084,Doctor,7,436.78,Beauty,Morning,Cash,Very Dissatisfied,Yes,Mixed,47412,73,Suburban,3
+CUST1977,19,Female,121587,Freelancer,11,399.18,Groceries,Evening,Debit Card,Very Dissatisfied,Yes,Groceries,88405,75,Urban,2
+CUST1978,26,Male,124952,Teacher,5,131.79,Beauty,Afternoon,Cash,Very Dissatisfied,Yes,Fashion,79183,70,Suburban,2
+CUST1979,59,Female,102281,Doctor,6,191.11,Fashion,Morning,Credit Card,Neutral,Yes,Fashion,27950,97,Suburban,5
+CUST1980,49,Female,40856,Freelancer,9,287.86,Beauty,Morning,Cash,Neutral,No,Fashion,86549,101,Suburban,4
+CUST1981,21,Female,51104,Teacher,4,194.87,Beauty,Afternoon,Credit Card,Very Dissatisfied,No,Fashion,54270,108,Rural,4
+CUST1982,58,Female,198887,Doctor,4,288.63,Beauty,Afternoon,Credit Card,Very Satisfied,Yes,Electronics,10777,136,Suburban,3
+CUST1983,25,Male,176589,Teacher,6,99.79,Electronics,Afternoon,Cash,Dissatisfied,No,Mixed,78082,50,Rural,6
+CUST1984,43,Female,98449,Student,9,40.06,Groceries,Morning,Mobile Wallet,Very Satisfied,Yes,Electronics,4474,54,Rural,5
+CUST1985,47,Male,121913,Doctor,1,368.45,Fashion,Morning,Cash,Satisfied,No,Mixed,67781,82,Suburban,2
+CUST1986,31,Male,192956,Engineer,1,442.02,Fashion,Morning,Credit Card,Satisfied,No,Electronics,71603,34,Suburban,6
+CUST1987,36,Male,62023,Freelancer,5,458.81,Electronics,Evening,Cash,Very Satisfied,Yes,Groceries,92103,126,Suburban,4
+CUST1988,22,Female,157529,Engineer,10,316.19,Fashion,Evening,Cash,Very Dissatisfied,No,Electronics,82692,83,Rural,6
+CUST1989,40,Male,156525,Engineer,8,169.37,Beauty,Afternoon,Mobile Wallet,Satisfied,No,Groceries,65438,174,Rural,6
+CUST1990,48,Male,166267,Doctor,14,490.15,Beauty,Afternoon,Credit Card,Satisfied,No,Mixed,44184,149,Rural,3
+CUST1991,40,Male,47770,Student,3,209.77,Technology,Afternoon,Credit Card,Very Dissatisfied,Yes,Groceries,86549,110,Rural,4
+CUST1992,56,Male,128538,Teacher,7,323.02,Beauty,Afternoon,Debit Card,Dissatisfied,No,Electronics,49868,46,Urban,0
+CUST1993,31,Female,23627,Student,3,370.36,Technology,Evening,Credit Card,Neutral,No,Electronics,15899,115,Rural,1
+CUST1994,62,Female,136972,Freelancer,8,181.19,Technology,Evening,Mobile Wallet,Very Satisfied,Yes,Electronics,17860,83,Urban,7
+CUST1995,58,Male,59696,Student,7,385.17,Groceries,Evening,Credit Card,Very Dissatisfied,No,Mixed,23653,95,Suburban,5
+CUST1996,55,Female,25099,Freelancer,8,108.34,Electronics,Morning,Credit Card,Neutral,No,Fashion,40145,69,Rural,1
+CUST1997,62,Female,84534,Student,12,109.8,Technology,Morning,Credit Card,Very Satisfied,No,Groceries,11934,101,Rural,5
+CUST1998,64,Male,49362,Freelancer,5,449.76,Electronics,Morning,Credit Card,Neutral,Yes,Electronics,36110,56,Suburban,1
+CUST1999,55,Female,130315,Teacher,9,165.82,Technology,Afternoon,Credit Card,Dissatisfied,No,Groceries,36154,120,Suburban,0

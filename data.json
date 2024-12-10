@@ -1,0 +1,173 @@
+{
+    "clusters": [
+      {
+        "Cluster": 0,
+        "Name": "Nhóm khách hàng chi tiêu bình thường",
+        "Description": "Khách hàng trung tuổi, thu nhập trung bình, mua sắm vừa phải, chi tiêu vừa phải.",
+        "Average Details": {
+          "Tuổi trung bình": 43.5,
+          "Thu nhập trung bình": 119216.97,
+          "Tần suất mua sắm trung bình": 7.84,
+          "Giá trị trung bình mỗi giao dịch": 253.61,
+          "Chi tiêu hàng năm trung bình": 49501.78,
+          "Thời gian ở trung tâm thương mại": 106.22
+        },
+        "Marketing Strategy": "Tập trung cung cấp các chương trình khuyến mãi trung cấp để khuyến khích chi tiêu thêm.",
+        "Occupation Strategies": {
+          "Student": "Cung cấp các sản phẩm công nghệ và dịch vụ học tập.",
+          "Engineer": "Cung cấp các sản phẩm công nghệ và dịch vụ liên quan.",
+          "Teacher": "Tập trung vào các sản phẩm giáo dục và tài liệu học tập.",
+          "Doctor": "Chương trình khuyến mãi tập trung vào mua sắm cá nhân.",
+          "Freelancer": "Cung cấp công cụ và dịch vụ hỗ trợ công việc tự do."
+        }
+      },
+      {
+        "Cluster": 1,
+        "Name": "Nhóm khách hàng thu nhập thấp, mua thường xuyên",
+        "Description": "Khách hàng trung tuổi, thu nhập thấp, mua sắm thường xuyên, giao dịch nhỏ.",
+        "Average Details": {
+          "Tuổi trung bình": 43.9,
+          "Thu nhập trung bình": 38076.92,
+          "Tần suất mua sắm trung bình": 7.75,
+          "Giá trị trung bình mỗi giao dịch": 263.83,
+          "Chi tiêu hàng năm trung bình": 28918.48,
+          "Thời gian ở trung tâm thương mại": 110.85
+        },
+        "Marketing Strategy": "Cung cấp thẻ thành viên để tăng mức chi tiêu và giữ chân khách hàng.",
+        "Occupation Strategies": {
+          "Student": "Cung cấp các sản phẩm công nghệ và dịch vụ học tập.",
+          "Engineer": "Cung cấp các sản phẩm công nghệ và dịch vụ liên quan.",
+          "Teacher": "Tập trung vào các sản phẩm giáo dục và tài liệu học tập.",
+          "Doctor": "Chương trình khuyến mãi tập trung vào mua sắm cá nhân.",
+          "Freelancer": "Cung cấp công cụ và dịch vụ hỗ trợ công việc tự do."
+        }
+      },
+      {
+        "Cluster": 2,
+        "Name": "Frequent High Spenders",
+        "Description": "Khách hàng trung tuổi, thu nhập khá, mua sắm thường xuyên, chi tiêu cao.",
+        "Average Details": {
+          "Tuổi trung bình": 44.6,
+          "Thu nhập trung bình": 114633.93,
+          "Tần suất mua sắm trung bình": 7.7,
+          "Giá trị trung bình mỗi giao dịch": 251.91,
+          "Chi tiêu hàng năm trung bình": 84576.22,
+          "Thời gian ở trung tâm thương mại": 99.39
+        },
+        "Marketing Strategy": "Giới thiệu các dịch vụ cao cấp để tăng thêm giá trị mua sắm.",
+        "Occupation Strategies": {
+          "Student": "Cung cấp các sản phẩm công nghệ và dịch vụ học tập.",
+          "Engineer": "Cung cấp các sản phẩm công nghệ và dịch vụ liên quan.",
+          "Teacher": "Tập trung vào các sản phẩm giáo dục và tài liệu học tập.",
+          "Doctor": "Chương trình khuyến mãi tập trung vào mua sắm cá nhân.",
+          "Freelancer": "Cung cấp công cụ và dịch vụ hỗ trợ công việc tự do."
+        }
+      },
+      {
+        "Cluster": 3,
+        "Name": "High Income Buyers",
+        "Description": "Khách hàng trung tuổi, thu nhập cao, mua sắm thường xuyên, giao dịch lớn.",
+        "Average Details": {
+          "Tuổi trung bình": 46.1,
+          "Thu nhập trung bình": 182163.16,
+          "Tần suất mua sắm trung bình": 7.9,
+          "Giá trị trung bình mỗi giao dịch": 268.39,
+          "Chi tiêu hàng năm trung bình": 30449.54,
+          "Thời gian ở trung tâm thương mại": 109.11
+        },
+        "Marketing Strategy": "Cung cấp các dịch vụ cá nhân hóa cho nhóm khách hàng cao cấp.",
+        "Occupation Strategies": {
+          "Student": "Cung cấp các sản phẩm công nghệ và dịch vụ học tập.",
+          "Engineer": "Cung cấp các sản phẩm công nghệ và dịch vụ liên quan.",
+          "Teacher": "Tập trung vào các sản phẩm giáo dục và tài liệu học tập.",
+          "Doctor": "Chương trình khuyến mãi tập trung vào mua sắm cá nhân.",
+          "Freelancer": "Cung cấp công cụ và dịch vụ hỗ trợ công việc tự do."
+        }
+      },
+      {
+        "Cluster": 4,
+        "Name": "Low Income High Spenders",
+        "Description": "Khách hàng trung tuổi, thu nhập thấp, mua sắm thường xuyên, chi tiêu cao.",
+        "Average Details": {
+          "Tuổi trung bình": 43.7,
+          "Thu nhập trung bình": 55582.02,
+          "Tần suất mua sắm trung bình": 8.12,
+          "Giá trị trung bình mỗi giao dịch": 238.35,
+          "Chi tiêu hàng năm trung bình": 77713.52,
+          "Thời gian ở trung tâm thương mại": 105.53
+        },
+        "Marketing Strategy": "Tập trung vào các sản phẩm giá rẻ để tăng số lượng giao dịch.",
+        "Occupation Strategies": {
+          "Student": "Cung cấp các sản phẩm công nghệ và dịch vụ học tập.",
+          "Engineer": "Cung cấp các sản phẩm công nghệ và dịch vụ liên quan.",
+          "Teacher": "Tập trung vào các sản phẩm giáo dục và tài liệu học tập.",
+          "Doctor": "Chương trình khuyến mãi tập trung vào mua sắm cá nhân.",
+          "Freelancer": "Cung cấp công cụ và dịch vụ hỗ trợ công việc tự do."
+        }
+      },
+      {
+        "Cluster": 5,
+        "Name": "Low Frequency Moderate Buyers",
+        "Description": "Khách hàng trung tuổi, thu nhập trung bình, mua sắm ít, giao dịch vừa phải.",
+        "Average Details": {
+          "Tuổi trung bình": 43.8,
+          "Thu nhập trung bình": 81709.33,
+          "Tần suất mua sắm trung bình": 7.46,
+          "Giá trị trung bình mỗi giao dịch": 252.5,
+          "Chi tiêu hàng năm trung bình": 24439.84,
+          "Thời gian ở trung tâm thương mại": 100.7
+        },
+        "Marketing Strategy": "Khuyến khích mua sắm với các chương trình giảm giá thường xuyên.",
+        "Occupation Strategies": {
+          "Student": "Cung cấp các sản phẩm công nghệ và dịch vụ học tập.",
+          "Engineer": "Cung cấp các sản phẩm công nghệ và dịch vụ liên quan.",
+          "Teacher": "Tập trung vào các sản phẩm giáo dục và tài liệu học tập.",
+          "Doctor": "Chương trình khuyến mãi tập trung vào mua sắm cá nhân.",
+          "Freelancer": "Cung cấp công cụ và dịch vụ hỗ trợ công việc tự do."
+        }
+      },
+      {
+        "Cluster": 6,
+        "Name": "High Income Moderate Buyers",
+        "Description": "Khách hàng trung tuổi, thu nhập cao, mua sắm vừa phải, chi tiêu lớn.",
+        "Average Details": {
+          "Tuổi trung bình": 43.3,
+          "Thu nhập trung bình": 169465.28,
+          "Tần suất mua sắm trung bình": 7.54,
+          "Giá trị trung bình mỗi giao dịch": 250.79,
+          "Chi tiêu hàng năm trung bình": 75650.97,
+          "Thời gian ở trung tâm thương mại": 106.85
+        },
+        "Marketing Strategy": "Triển khai các chương trình quà tặng đặc biệt để giữ chân khách hàng.",
+        "Occupation Strategies": {
+          "Student": "Cung cấp các sản phẩm công nghệ và dịch vụ học tập.",
+          "Engineer": "Cung cấp các sản phẩm công nghệ và dịch vụ liên quan.",
+          "Teacher": "Tập trung vào các sản phẩm giáo dục và tài liệu học tập.",
+          "Doctor": "Chương trình khuyến mãi tập trung vào mua sắm cá nhân.",
+          "Freelancer": "Cung cấp công cụ và dịch vụ hỗ trợ công việc tự do."
+        }
+      },
+      {
+        "Cluster": 7,
+        "Name": "Frequent High Income Buyers",
+        "Description": "Khách hàng trung tuổi, thu nhập khá, mua sắm thường xuyên, giao dịch lớn.",
+        "Average Details": {
+          "Tuổi trung bình": 43.3,
+          "Thu nhập trung bình": 143125.55,
+          "Tần suất mua sắm trung bình": 8.57,
+          "Giá trị trung bình mỗi giao dịch": 269.08,
+          "Chi tiêu hàng năm trung bình": 19713.46,
+          "Thời gian ở trung tâm thương mại": 103.71
+        },
+        "Marketing Strategy": "Ưu tiên cung cấp các dịch vụ cao cấp và độc quyền.",
+        "Occupation Strategies": {
+          "Student": "Cung cấp các sản phẩm công nghệ và dịch vụ học tập.",
+          "Engineer": "Cung cấp các sản phẩm công nghệ và dịch vụ liên quan.",
+          "Teacher": "Tập trung vào các sản phẩm giáo dục và tài liệu học tập.",
+          "Doctor": "Chương trình khuyến mãi tập trung vào mua sắm cá nhân.",
+          "Freelancer": "Cung cấp công cụ và dịch vụ hỗ trợ công việc tự do."
+        }
+      }
+    ]
+  }
+  
